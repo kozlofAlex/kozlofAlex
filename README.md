@@ -1,7 +1,7 @@
 # Hello everyone :wave:, my name is Alexander and i'm Junior QA  
 
 <div align="center">
-  <img align='right' src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img align='right' src="https://github.com/kozlofAlex/testing/blob/main/img/giphy.webp" width="500" height="300"/>
 </div>
 </br>
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
@@ -20,7 +20,7 @@
 
 
 ### 🛠 &nbsp; Skills
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
+<img src="https://github.com/kozlofAlex/testing/blob/main/img/Night-Coding.gif" align="right" />
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
