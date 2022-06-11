@@ -1,13 +1,16 @@
 ## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
-
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-case-and-bugs"><b>Examples test case and bugs</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
-</details>  
+</details>
 
-# About me 
+# About me
+
+# Examples test case and bugs 
+
 # Career path
 <details> <summary>Career</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
@@ -71,7 +74,6 @@
 	</tr>
 </table>
 </details>
-
 <details> <summary>Studies</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
@@ -155,19 +157,7 @@
  <details> <summary><b>Автоматизация тестирования</b></summary><br></details>
  <details> <summary><b>Английский язык</b></summary><br></details>
  
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-# Where to find me:
+### Where to find me:
 <a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
