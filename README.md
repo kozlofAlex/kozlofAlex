@@ -5,13 +5,16 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#knowledge"><b>Knowledge</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#need-to-study"><b>Need to study</b></a></br>
 </details>
 
 # About me
 
 # Skills
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 # Examples Test cases and Bug reports
 
 # Career path
@@ -154,7 +157,7 @@
 
 </details>    
 
-# Skills development   
+# Need to study  
  <details> <summary><b>Тестирование десктопных приложений</b></summary><br></details>
  <details> <summary><b>Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>Автоматизация тестирования</b></summary><br></details>
