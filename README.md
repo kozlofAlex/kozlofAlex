@@ -16,16 +16,18 @@
 		<th>Practice </th>
 	</tr>
 	<tr>
-		<td>September 2021 — November 2021</td>
-		<td><b>ООО "РАЙТКОД"</b>
-		Программист PostgreSQL. Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ. </br>
+		<td>September 2021 — November 2021 </br><i>3 months</i></td>
+		<td><b>ООО "РАЙТКОД"</b></br>
+		Программист PostgreSQL. </br>
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ. </br>
 		<b>Skills:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+		  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 		</td>
 	</tr>
 	<tr>
-		<td>May 2019 — August 2021</td>
+		<td>May 2019 — August 2021 </br><i>2 years 4 months</i></td>
 		<td><b>Согаз-Мед, ОАО</b></br>
 		Главный специалист Группы информационных технологий</br>
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL.</br> 
@@ -36,11 +38,11 @@
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+		  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 		</td>
 	</tr>
 	<tr>
-		<td>January 2016 — April 2019</td>
+		<td>January 2016 — April 2019 </br><i>3 years 4 months</i></td>
 		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
 		Главный специалист отдела информационных технологий</br>
 		Работал с базой данных соцподдержки населения по Кировской области, MS SQL. </br> 
@@ -56,7 +58,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>December 2014 — December 2015</td>
+		<td>December 2014 — December 2015 </br><i>1 year 1 month</i></td>
 		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>	
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
 		<b>Skills:</b></br> 
@@ -92,7 +94,7 @@
 </details>
 
 # Skills
-<details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
+<details open> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
    3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
