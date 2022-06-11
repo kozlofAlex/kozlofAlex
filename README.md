@@ -3,7 +3,7 @@
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9"><b>Багаж знаний</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
 </details>  
 
@@ -16,10 +16,19 @@
 		<th>Practice </th>
 	</tr>
 	<tr>
+		<td>September 2021 — November 2021</td>
+		<td><b>ООО "РАЙТКОД"</b>
+		Программист PostgreSQL. Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ. </br>
+		<b>Skills:</b></br> 
+                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+		</td>
+	</tr>
+	<tr>
 		<td>May 2019 — August 2021</td>
-		<td><b>Согаз-Мед, ОАО</b>
+		<td><b>Согаз-Мед, ОАО</b></br>
 		Главный специалист Группы информационных технологий</br>
-		Работа в крупной медицинской страховой компании, главными задачами стоит формирование статистических отчётов, выборок, фильтров в базе данных MS SQL.</br> 		      
+		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL.</br> 
 	        Также в обязанности входит консультирование пользователей, работа с офисной техникой.</br>
                 Работал с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
 		<b>Skills:</b></br> 
@@ -34,7 +43,10 @@
 		<td>January 2016 — April 2019</td>
 		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
 		Главный специалист отдела информационных технологий</br>
-		Работал с базой данных соцподдержки населения по Кировской области, MS SQL. Составлял выборки-отчёты, предоставлял статистические данные, 			разрабатывал утилиты, настраивал фильтр-папки. Консультировал пользователей, помогал с сопровождением системы, устанавливал и настраивал 			программы. Был контент-менеджером сайта министерства соцразвития.</br>
+		Работал с базой данных соцподдержки населения по Кировской области, MS SQL. </br> 
+		Составлял выборки-отчёты, предоставлял статистические данные, разрабатывал утилиты, настраивал фильтр-папки. </br> 
+		Консультировал пользователей, помогал с сопровождением системы, устанавливал и настраивал программы. </br> 
+		Был контент-менеджером сайта министерства соцразвития.</br>
 		<b>Skills:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -45,14 +57,14 @@
 	</tr>
 	<tr>
 		<td>December 2014 — December 2015</td>
-		<td>Первое место работы - Реабилитационный центр для инвалидов молодого возраста</br>	
+		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>	
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
 		<b>Skills:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-		  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+		  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">	
 		</td>
 	</tr>
 </table>
@@ -73,13 +85,13 @@
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">	
+		  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">	
    		 </td>
 	</tr>
 </table>
 </details>
 
-# Багаж знаний
+# Skills
 <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
