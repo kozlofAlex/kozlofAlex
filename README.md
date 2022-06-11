@@ -5,30 +5,15 @@
 </details>
 
 # Знания
-[1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [2. Тестирование web приложений и API](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [3. Дополнительные навыки](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [4. Базы данных](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [5. Английский язык](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [6. Тестирование десктопных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [7. Тестирование мобильных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+### [8. Автоматизация тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
 
-
-<details><summary><b>2. Тестирование web приложений и API</b></summary>
-  <b></b>
-</details>
-<details><summary><b>3. Дополнительные навыки</b></summary>
-  <b></b>
-</details>
-<details><summary><b>4. Базы данных</b></summary>
-  <b></b>
-</details>
-<details><summary><b>5. Английский язык</b></summary>
-  <b></b>
-</details>
-<details><summary><b>6. Тестирование десктопных приложений</b></summary>
-  <b></b>
-</details>
-<details><summary><b>7. Тестирование мобильных приложений</b></summary>
-  <b></b>
-</details>
-<details><summary><b>8. Автоматизация тестирования</b></summary>
-  <b></b>
-</details>
 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
