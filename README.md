@@ -11,7 +11,6 @@
 ### :microphone: About me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
- 
 
 ### 🛠 &nbsp; Skills
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,11 +26,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
+
 ### :pencil: Examples Test cases and Bug reports
 
 ### :office: Career path
 <details> <summary>Career</summary></br>
-<table  align="center" width="50%" cellspacing="0">
+<table >
 	<tr>
 		<th>Period</th>
 		<th>Job</th>
@@ -39,22 +39,22 @@
 	<tr>
 		<td>September 2021 — November 2021 </br><i>3 months</i></td>
 		<td><b>ООО "РАЙТКОД"</b></br>
-		Программист PostgreSQL. </br>
-		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ. </br>
-		<b>Skills:</b></br> 
-                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+		<b>Программист PostgreSQL.</b></br>
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
+		<b>Stack:</b></br>          
 	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+		  <img src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white">
 		  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 		</td>
 	</tr>
 	<tr>
-		<td>May 2019 — August 2021 </br><i>2 years 4 months</i></td>
-		<td><b>Согаз-Мед, ОАО</b></br>
-		Главный специалист Группы информационных технологий</br>
-		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL.</br> 
-	        Также в обязанности входит консультирование пользователей, работа с офисной техникой.</br>
-                Работал с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
-		<b>Skills:</b></br> 
+		<td>May 2019 — August 2021</br><i>2 years 4 months</i></td>
+		<td><b>ОАО "Согаз-Мед"</b></br>
+		<b>Главный специалист Группы информационных технологий</b></br>
+		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL. 
+	        Консультирование пользователей, работа с офисной техникой. 
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
+		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -65,12 +65,12 @@
 	<tr>
 		<td>January 2016 — April 2019 </br><i>3 years 4 months</i></td>
 		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
-		Главный специалист отдела информационных технологий</br>
-		Работал с базой данных соцподдержки населения по Кировской области, MS SQL. </br> 
-		Составлял выборки-отчёты, предоставлял статистические данные, разрабатывал утилиты, настраивал фильтр-папки. </br> 
-		Консультировал пользователей, помогал с сопровождением системы, устанавливал и настраивал программы. </br> 
-		Был контент-менеджером сайта министерства соцразвития.</br>
-		<b>Skills:</b></br> 
+		<b>Главный специалист отдела информационных технологий</b></br>
+		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
+		Составление отчётов, предоставление статистических данных, разработка утилит. 
+		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
+		Контент-менеджмент сайта министерства соцразвития</br>
+		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -80,9 +80,10 @@
 	</tr>
 	<tr>
 		<td>December 2014 — December 2015 </br><i>1 year 1 month</i></td>
-		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>	
+		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>
+		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
-		<b>Skills:</b></br> 
+		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -93,6 +94,7 @@
 	</tr>
 </table>
 </details>
+
 <details> <summary>Studies</summary></br>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
@@ -104,7 +106,7 @@
 		<td>В 2014 году я окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
                  Дипломная работа: <b>Разработка приложения 3D-тетрис на Android</b></br>  
-                 <b>Skills:</b></br> 
+                 <b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
