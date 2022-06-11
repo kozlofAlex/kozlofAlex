@@ -2,17 +2,18 @@
 <details>
   <summary><b># Немного обо мне</b></summary>
   <br/>
+  
 </details>
 
 # Багаж знаний
-### [1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [2. Тестирование web приложений и API](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [3. Дополнительные навыки](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [4. Базы данных](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [5. Английский язык](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [6. Тестирование десктопных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [7. Тестирование мобильных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
-### [8. Автоматизация тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [2. Тестирование web приложений и API](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [3. Дополнительные навыки](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [4. Базы данных](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [5. Английский язык](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [6. Тестирование десктопных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [7. Тестирование мобильных приложений](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+- [ ] [8. Автоматизация тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
 
 
 
