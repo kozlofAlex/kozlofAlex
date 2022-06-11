@@ -20,7 +20,7 @@
 
 
 ### 🛠 &nbsp; Skills
-<img src="https://github.com/kozlofAlex/testing/blob/main/img/Night-Coding.gif" align="right" />
+<img src="https://github.com/kozlofAlex/testing/blob/main/img/Night-Coding.webp" align="right" />
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
