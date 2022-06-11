@@ -31,7 +31,7 @@
 
 ### :office: Career path
 <details> <summary>Career</summary></br>
-<table border="0" align="center" width="50%" cellspacing="0">
+<table  align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
 		<th>Job</th>
