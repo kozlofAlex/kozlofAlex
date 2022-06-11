@@ -1,14 +1,14 @@
 ## Всем привет :wave:, меня зовут Александр и я начинающий Тестировщик ПО
 <details open> <summary><h3>Contents</h3></summary>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#pencil-examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#office-career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
 </details>
 
-### About me
+### :microphone: About me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  
@@ -18,9 +18,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
-### Examples Test cases and Bug reports
+### :pencil: Examples Test cases and Bug reports
 
-### Career path
+### :office: Career path
 <details> <summary>Career</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
