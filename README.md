@@ -6,28 +6,28 @@
 
 # Знания
 <details><summary><b>1. Теория тестирования</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>2. Тестирование web приложений и API</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>3. Дополнительные навыки</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>4. Базы данных</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>5. Английский язык</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>6. Тестирование десктопных приложений</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>7. Тестирование мобильных приложений</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 <details><summary><b>8. Автоматизация тестирования</b></summary>
-  <b>1. Теория тестирования</b>
+  <b></b>
 </details>
 
 
