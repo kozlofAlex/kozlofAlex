@@ -8,14 +8,15 @@
 </details>  
 
 # About me 
-<details> <summary> <a href="<h1>">Career path</h1></a></summary>
+# Career path
+<details> <summary> <a href="<h1>">Career</h1></a></summary>
 
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
 		<th>Practice </th>
 	</tr>
-		<tr>
+	<tr>
 		<td>January 2016 — April 2019</td>
 		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
 		Главный специалист отдела информационных технологий</br>
@@ -40,7 +41,13 @@
 		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 		</td>
 	</tr>
+</table>
+</details>
+<details> <summary> <a href="<h1>">Studies</h1></a></summary>
+<table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
+		<th>Period</th>
+		<th>Studies</th>
 		<td>2009-2014</td>
 		<td>В 2014 году я окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
