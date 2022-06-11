@@ -1,5 +1,35 @@
+## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
+<details>
+  <summary><b># Немного обо мне</b></summary>
+  <br/>
+</details>
+
 # Знания
-1. Теория тестирования
+<details><summary><b>1. Теория тестирования</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>2. Тестирование web приложений и API</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>3. Дополнительные навыки</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>4. Базы данных</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>5. Английский язык</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>6. Тестирование десктопных приложений</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>7. Тестирование мобильных приложений</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+<details><summary><b>8. Автоматизация тестирования</b></summary>
+  <b>1. Теория тестирования</b>
+</details>
+
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
