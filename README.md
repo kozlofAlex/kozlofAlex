@@ -2,34 +2,38 @@
 
 <details> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career"><b>Career </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9"><b>Багаж знаний</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
 </details>  
 
 # About me 
-<table border="2" align="center" width="50%" cellspacing="0">
+# Career
+<table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
 		<th>Practice </th>
 	</tr>
 	<tr>
 		<td>2009-2014</td>
-		<td>В 2014 году я окончил Вятский государственный гуманитарный университет **(ВятГГу)** г. Кирова    
-                 Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)   
-                 Дипломная работа: **Разработка приложения 3D-тетрис на Android**  
-                 Skills: 
-                  ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-                  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-                  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-                  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-                  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+		<td>В 2014 году я окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
+                 Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
+                 Дипломная работа:<b>Разработка приложения 3D-тетрис на Android</b></br>  
+                 <b>Skills:</b></br> 
+                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+		  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">	
     </td>
 	</tr>
 	<tr>
-		<td>ячейка</td>
-		<td>ячейка</td>
+		<td>Декабрь 2014 — декабрь 2015</td>
+		<td>Первое место работы - Реабилитационный центр для инвалидов молодого возраста</br>	
+		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</td>
 	</tr>
 </table>
+
 
 # Багаж знаний
 <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
