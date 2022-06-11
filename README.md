@@ -8,7 +8,7 @@
 </details>  
 
 # About me 
-<details> <summary> Career path</summary>
+<details> <summary> <a href="<h1>">Career path</h1></a></summary>
 
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
@@ -44,7 +44,7 @@
 		<td>2009-2014</td>
 		<td>В 2014 году я окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
-                 Дипломная работа:<b>Разработка приложения 3D-тетрис на Android</b></br>  
+                 Дипломная работа: <b>Разработка приложения 3D-тетрис на Android</b></br>  
                  <b>Skills:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
