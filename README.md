@@ -1,21 +1,24 @@
 ## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
 
-<details> <summary><h3>Содержание</h3></summary>
-<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5"><b>Немного обо мне</b></a></br>
+<details> <summary><h3>Contents</h3></summary>
+<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9"><b>Багаж знаний</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F"><b>Дорога развития </b></a>	</br>
+<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#skills-development"><b>Skills development</b></a></br>
 </details>  
 
-# Немного обо мне 
-В 2014 году я окончил Вятский государственный гуманитарный университет **(ВятГГу)** г. Кирова  
-Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)  
-Дипломная работа: **Разработка приложения 3D-тетрис на Android**  
-Skills:  
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# About me 
+| Period      | Practice                                                                                                     
+| ----------- | ------------
+|  2009-2014  |  В 2014 году я окончил Вятский государственный гуманитарный университет **(ВятГГу)** г. Кирова  Факультет информатики, математики и                                      физики, Прикладная математика и информатика (математик, системный программист) Дипломная работа: **Разработка приложения 3D-тетрис на Android**
+                 Skills:|![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+                 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+                 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+                 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+                 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
+           
+
+
+
 
 # Багаж знаний
 <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
@@ -33,7 +36,7 @@ Skills:
    
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>4. Базы данных</b></a></summary><br></details>    
 
-# Дорога развития    
+# Skills development   
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Тестирование десктопных приложений</b></a></summary><br></details>
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Тестирование мобильных приложений</b></a></summary><br></details>   
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Автоматизация тестирования</b></a></summary><br></details>
