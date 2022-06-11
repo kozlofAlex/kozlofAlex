@@ -1,4 +1,13 @@
 ## Всем привет :wave:, меня зовут Александр и я начинающий Тестировщик ПО
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
+<div align="center">
+<a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
+<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
