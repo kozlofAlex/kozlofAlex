@@ -1,12 +1,16 @@
 ## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
-<details><summary><b># Немного обо мне</b></summary><br/>
+<details><summary><b> Немного обо мне</b></summary><br/>
   
 </details>
 
 # Багаж знаний
 <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
- 1. "Тестирование Дот Ком" Р. Савин </details>
-  
+   1. «Тестирование Дот Ком», Р. Савин <br>
+   2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
+   3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
+   4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг <br>
+   5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер  
+ </details>
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>1. Теория тестирования</b></a></summary><br></details>
    
  <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>2. Тестирование web приложений и API</b></a></summary><br></details>
