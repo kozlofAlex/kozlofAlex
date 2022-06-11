@@ -1,15 +1,18 @@
 ## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-case-and-bugs"><b>Examples test case and bugs</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills"><b>Skills</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#knowledge"><b>Knowledge</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
 </details>
 
 # About me
 
-# Examples test case and bugs 
+# Skills
+
+# Examples Test cases and Bug reports
 
 # Career path
 <details> <summary>Career</summary>
@@ -95,7 +98,7 @@
 </table>
 </details>
 
-# Skills
+# Knowledge
 <details open> <summary><b>0. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
