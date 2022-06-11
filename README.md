@@ -1,14 +1,14 @@
 ## Всем привет , меня зовут Александр и я начинающий Тестировщик ПО
 <details open> <summary><h3>Contents</h3></summary>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#knowledge"><b>Knowledge</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#need-to-study"><b>Need to study</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--career-path"><b>Career path</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--knowledge"><b>Knowledge</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--need-to-study"><b>Need to study</b></a></br>
 </details>
 
-# About me
+### About me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  
@@ -18,9 +18,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
-# Examples Test cases and Bug reports
+### Examples Test cases and Bug reports
 
-# Career path
+### Career path
 <details> <summary>Career</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
@@ -105,7 +105,7 @@
 </table>
 </details>
 
-# Knowledge
+### Knowledge
 <details open> <summary><b>1. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
@@ -161,7 +161,7 @@
 
 </details>    
 
-# Need to study  
+### Need to study  
  <details> <summary><b>1. Тестирование десктопных приложений</b></summary><br></details>
  <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
