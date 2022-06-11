@@ -1,7 +1,7 @@
 ## Всем привет , меня зовут Александр и я начинающий Тестировщик ПО
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills"><b>Skills</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#knowledge"><b>Knowledge</b></a></br>
