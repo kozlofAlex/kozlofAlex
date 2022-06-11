@@ -4,7 +4,7 @@
   <br/>
 </details>
 
-# Знания
+# Багаж знаний
 ### [1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
 ### [2. Тестирование web приложений и API](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
 ### [3. Дополнительные навыки](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
