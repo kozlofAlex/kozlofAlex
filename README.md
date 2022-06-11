@@ -1,11 +1,11 @@
-## Всем привет , меня зовут Александр и я начинающий Тестировщик ПО
+## Всем привет :wave:, меня зовут Александр и я начинающий Тестировщик ПО
 <details open> <summary><h3>Contents</h3></summary>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--career-path"><b>Career path</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--knowledge"><b>Knowledge</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--need-to-study"><b>Need to study</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board_knowledge"><b>Knowledge</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#need-to-study"><b>Need to study</b></a></br>
 </details>
 
 ### About me
@@ -105,7 +105,7 @@
 </table>
 </details>
 
-### Knowledge
+### :mortar_board: Knowledge
 <details open> <summary><b>1. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
