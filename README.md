@@ -10,7 +10,10 @@
 
 # About me
 
-# Skills
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+ 
+
+### 🛠 &nbsp; Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
@@ -103,14 +106,14 @@
 </details>
 
 # Knowledge
-<details open> <summary><b>0. Книги</b></summary><br>
+<details open> <summary><b>1. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
    3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
    4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг <br>
    5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер  
 </details>
-<details> <summary><b>1. Теория тестирования</b></summary><br>
+<details> <summary><b>2. Теория тестирования</b></summary><br>
    1. Основные понятия<br>
    2. Обязанности тестировщика<br>
    3. Принципы тестирования<br>
@@ -129,7 +132,7 @@
    16. Тестовая документация<br>
    17. Метрики тестирования 
 </details>
-<details> <summary><b>2. Тестирование web приложений и API</b></summary><br>
+<details> <summary><b>3. Тестирование web приложений и API</b></summary><br>
    1. Клиент-серверная архитектура<br>
    2. HTTP- протокол, структура запроса и ответа<br>
    3. API<br>
@@ -150,7 +153,7 @@
    18. Тестирование веб форм и веб элементов <br>
    19. Анализ логов (Kibana, Elasticsearch)
 </details>    
-<details> <summary><b>3. Дополнительные навыки</b></a></summary><br>
+<details> <summary><b>4. Дополнительные навыки</b></a></summary><br>
 
 </details>
    
@@ -159,10 +162,10 @@
 </details>    
 
 # Need to study  
- <details> <summary><b>Тестирование десктопных приложений</b></summary><br></details>
- <details> <summary><b>Тестирование мобильных приложений</b></summary><br></details>   
- <details> <summary><b>Автоматизация тестирования</b></summary><br></details>
- <details> <summary><b>Английский язык</b></summary><br></details>
+ <details> <summary><b>1. Тестирование десктопных приложений</b></summary><br></details>
+ <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
+ <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
+ <details> <summary><b>4. Английский язык</b></summary><br></details>
  
 ### Where to find me:
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/vk-2CA5E7?style=for-the-badge&logo=vk&logoColor=white" /></a>
