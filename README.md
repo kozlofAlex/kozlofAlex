@@ -1,9 +1,9 @@
 ## Всем привет, меня зовут [Александр](https://vk.com/id122275910) и я начинающий Тестировщик ПО
 
 <details> <summary><h3>Contents</h3></summary>
-<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#about-me"><b>About me </b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9"><b>Багаж знаний</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/edit/main/README.md#skills-development"><b>Skills development</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#about-me"><b>About me </b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9"><b>Багаж знаний</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#skills-development"><b>Skills development</b></a></br>
 </details>  
 
 # About me 
