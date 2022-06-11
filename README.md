@@ -5,9 +5,9 @@
 </details>
 
 # Знания
-<details><summary><b>1. Теория тестирования</b></summary>
-  <b></b>
-</details>
+[1. Теория тестирования](https://github.com/kozlofAlex/testing/blob/main/Testing%20theory.md)
+
+
 <details><summary><b>2. Тестирование web приложений и API</b></summary>
   <b></b>
 </details>
