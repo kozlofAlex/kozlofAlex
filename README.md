@@ -5,8 +5,8 @@
 </div>
 </br>
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
-<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></br>
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></br>
+<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></br></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
@@ -14,7 +14,7 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#office-career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
-</br></br></br></br></br>  
+</br></br></br>  
 
 ### :microphone: About me
 
@@ -170,7 +170,8 @@
    17. Виды авторизация <br>
    18. Тестирование веб форм и веб элементов <br>
    19. Анализ логов (Kibana, Elasticsearch)
-</details>    
+</details>
+
 <details> <summary><b>4. Дополнительные навыки</b></a></summary><br>
 
 </details>
@@ -184,9 +185,3 @@
  <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
  <details> <summary><b>4. Английский язык</b></summary><br></details>
- 
-### Where to find me:
-<a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
-<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
