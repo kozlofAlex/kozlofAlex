@@ -94,26 +94,66 @@
 </details>
 
 # Skills
-<details open> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
+<details open> <summary><b>0. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
    3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
    4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг <br>
    5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер  
- </details>
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>1. Теория тестирования</b></a></summary><br></details>
+</details>
+<details> <summary><b>1. Теория тестирования</b></summary><br>
+   1. Основные понятия<br>
+   2. Обязанности тестировщика<br>
+   3. Принципы тестирования<br>
+   4. Отличия QA и QC и Testing<br>
+   5. Верификация и валидация<br>
+   6. Уровни тестирования<br>
+   7. Жизненный цикл тестирования (STLC)<br>
+   8. Жизненный цикл ПО (SDLC)<br>
+   9. Модели разработки ПО<br>
+   10. SCRUM<br>
+   11. Требования и их анализ<br>
+   12. Отчёт о дефекте<br>
+   13. Severity vs Priority<br>
+   14. Основные виды тестирования ПО<br>
+   15. Техники тест-дизайна<br>
+   16. Тестовая документация<br>
+   17. Метрики тестирования 
+</details>
+<details> <summary><b>2. Тестирование web приложений и API</b></summary><br>
+   1. Клиент-серверная архитектура<br>
+   2. HTTP- протокол, структура запроса и ответа<br>
+   3. API<br>
+   4. Что происходит при отправке запроса на сервер<br>
+   5. HTTP - методы<br>
+   6. Коды ответов HTTP-сервера<br>
+   7. Работа с сетями<br>
+   8. Кэш, куки, веб-сокет<br>
+   9. HTML, CSS, JS<br>
+   10. Работа с DevTools<br>
+   11. Особенности (и отличия) REST и SOAP <br>
+   12. Отчёт о дефекте<br>
+   13. Severity vs Priority<br>
+   14. Анализаторы траффика Charles Proxy/Fiddler<br>
+   15. Знание Postman, SoapUI<br>
+   16. Идентификация, аутентификация, авторизация<br>
+   17. Виды авторизация <br>
+   18. Тестирование веб форм и веб элементов <br>
+   19. Анализ логов (Kibana, Elasticsearch)
+</details>    
+<details> <summary><b>3. Дополнительные навыки</b></a></summary><br>
+
+</details>
    
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>2. Тестирование web приложений и API</b></a></summary><br></details>
-    
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>3. Дополнительные навыки</b></a></summary><br></details>
-   
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>4. Базы данных</b></a></summary><br></details>    
+<details> <summary><b>4. Базы данных</b></a></summary><br>
+
+</details>    
 
 # Skills development   
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Тестирование десктопных приложений</b></a></summary><br></details>
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Тестирование мобильных приложений</b></a></summary><br></details>   
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Автоматизация тестирования</b></a></summary><br></details>
- <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>Английский язык</b></a></summary><br></details>
+ <details> <summary><b>Тестирование десктопных приложений</b></summary><br></details>
+ <details> <summary><b>Тестирование мобильных приложений</b></summary><br></details>   
+ <details> <summary><b>Автоматизация тестирования</b></summary><br></details>
+ <details> <summary><b>Английский язык</b></summary><br></details>
  
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
