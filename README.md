@@ -4,7 +4,7 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board_knowledge"><b>Knowledge</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#need-to-study"><b>Need to study</b></a></br>
 </details>
 
