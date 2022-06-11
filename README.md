@@ -1,4 +1,4 @@
-## Всем привет :wave:, меня зовут Александр и я начинающий Тестировщик ПО
+## Hello everyone :wave:, my name is Alexander and i am Junior QA
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
@@ -39,7 +39,7 @@
 ### :pencil: Examples Test cases and Bug reports
 
 ### :office: Career path
-<details> <summary>Career</summary></br>
+<details open> <summary>Career</summary></br>
 <table >
 	<tr>
 		<th>Period</th>
@@ -104,11 +104,11 @@
 </table>
 </details>
 
-<details> <summary>Studies</summary></br>
+<details> <summary>Education</summary></br>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
-		<th>Studies</th>
+		<th>Education</th>
 	</tr>
 	<tr>
 		<td>2009-2014</td>
@@ -126,7 +126,7 @@
 </details>
 
 ### :mortar_board: Knowledge
-<details open> <summary><b>1. Книги</b></summary><br>
+<details> <summary><b>1. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
    3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
