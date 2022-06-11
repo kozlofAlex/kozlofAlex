@@ -5,7 +5,7 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#need-to-study"><b>Need to study</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
 </details>
 
 ### About me
@@ -161,7 +161,7 @@
 
 </details>    
 
-### Need to study  
+### :mag_right: Need to study  
  <details> <summary><b>1. Тестирование десктопных приложений</b></summary><br></details>
  <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
