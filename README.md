@@ -9,12 +9,26 @@
 
 # About me 
 # Career path
-<details> <summary> <a href="<h1>">Career</h1></a></summary>
-
+<details> <summary>Career</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
 		<th>Practice </th>
+	</tr>
+	<tr>
+		<td>May 2019 — August 2021</td>
+		<td><b>Согаз-Мед, ОАО</b>
+		Главный специалист Группы информационных технологий</br>
+		Работа в крупной медицинской страховой компании, главными задачами стоит формирование статистических отчётов, выборок, фильтров в базе данных MS SQL.</br> 		      
+	        Также в обязанности входит консультирование пользователей, работа с офисной техникой.</br>
+                Работал с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
+		<b>Skills:</b></br> 
+                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+		</td>
 	</tr>
 	<tr>
 		<td>January 2016 — April 2019</td>
@@ -29,7 +43,7 @@
 		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 		</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>December 2014 — December 2015</td>
 		<td>Первое место работы - Реабилитационный центр для инвалидов молодого возраста</br>	
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
@@ -43,11 +57,14 @@
 	</tr>
 </table>
 </details>
-<details> <summary> <a href="<h1>">Studies</h1></a></summary>
+
+<details> <summary>Studies</summary>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
 		<th>Studies</th>
+	</tr>
+	<tr>
 		<td>2009-2014</td>
 		<td>В 2014 году я окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
