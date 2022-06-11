@@ -1,12 +1,7 @@
-## Hello everyone :wave:, my name is Alexander and i am Junior QA
+# Hello everyone :wave:, my name is Alexander and i'm Junior QA  
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-<div align="center">
-<a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
-<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img align='right' src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 <details open> <summary><h3>Contents</h3></summary>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
@@ -16,12 +11,14 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
 </details>
+</br></br></br></br></br>  
 
 ### :microphone: About me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp; Skills
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
+
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
@@ -52,8 +49,8 @@
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
 		<b>Stack:</b></br>          
 	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-		  <img src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white">
 		  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+		  <img src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white">
 		</td>
 	</tr>
 	<tr>
@@ -66,8 +63,6 @@
 		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 		</td>
 	</tr>
@@ -104,7 +99,7 @@
 </table>
 </details>
 
-<details> <summary>Education</summary></br>
+<details open> <summary>Education</summary></br>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
