@@ -18,6 +18,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
@@ -28,7 +30,7 @@
 ### :pencil: Examples Test cases and Bug reports
 
 ### :office: Career path
-<details> <summary>Career</summary>
+<details> <summary>Career</summary></br>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
@@ -91,7 +93,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Studies</summary>
+<details> <summary>Studies</summary></br>
 <table border="0" align="center" width="50%" cellspacing="0">
 	<tr>
 		<th>Period</th>
