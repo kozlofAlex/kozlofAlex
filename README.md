@@ -7,18 +7,29 @@
 </details>  
 
 # About me 
-| Period      | Practice                                                                                                     
-| ----------- | ------------
-|  2009-2014  |  В 2014 году я окончил Вятский государственный гуманитарный университет **(ВятГГу)** г. Кирова  Факультет информатики, математики и                                      физики, Прикладная математика и информатика (математик, системный программист) Дипломная работа: **Разработка приложения 3D-тетрис на Android**
-                 Skills:|![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-                 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-                 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-                 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-                 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
-           
-
-
-
+<table border="2" align="center" width="50%" cellspacing="0">
+	<tr>
+		<th>Period</th>
+		<th>Practice </th>
+	</tr>
+	<tr>
+		<td>2009-2014</td>
+		<td>В 2014 году я окончил Вятский государственный гуманитарный университет **(ВятГГу)** г. Кирова    
+                 Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)   
+                 Дипломная работа: **Разработка приложения 3D-тетрис на Android**  
+                 Skills: 
+                  ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+                  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+                  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+                  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+                  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    </td>
+	</tr>
+	<tr>
+		<td>ячейка</td>
+		<td>ячейка</td>
+	</tr>
+</table>
 
 # Багаж знаний
 <details> <summary><a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md"><b>0. Книги</b></a></summary><br>
