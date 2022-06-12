@@ -1,4 +1,4 @@
-<h2> Hello everyone :wave:, my name is Alexander</br> i'm Junior QA</h2>  
+<h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA</h2>  
 
 <div align="center">
   <img align='right' src="https://github.com/kozlofAlex/testing/blob/main/img/giphy.webp" width="500" height="300"/>
@@ -37,6 +37,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+
 </br></br></br> </br></br></br> 
 
 ### :pencil: Examples Test cases and Bug reports
