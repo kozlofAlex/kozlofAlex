@@ -1,9 +1,10 @@
-<h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA</h2>  
+<h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA </h2>  
 <div align="center">
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/giphy.webp" width="500" height="300"/>
 </div>
-<a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
@@ -49,6 +50,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
+
+<a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="50" height = "50" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img  width ="50" height = "50" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 
 ### :pencil: Examples Test Documentation
 <details> <summary>✳️ Test Case</summary></br>
@@ -511,3 +515,4 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:kozlaleksan2009@mail.ru" target="_blank"><img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </div>
+
