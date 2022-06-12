@@ -120,12 +120,20 @@
 <details> <summary>Example #1</summary></br>
 <table>
 	<tr>
-		<th width="200">Period</th>
-		<th>Education</th>
+		<th width="200">Name</th>
+		<th>Description</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td>ID</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Author</td>
+		<td>Alex</td>
+	</tr>
+	<tr>
+		<td>to assigned</td>
+		<td>Alex</td>
 	</tr>
 </table>
 </details>
