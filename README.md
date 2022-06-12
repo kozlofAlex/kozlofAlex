@@ -42,14 +42,16 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
+
 ### :pencil: Examples Test Documentation
 <details> <summary>✳️ Test Case</summary></br>
 <div align="center">
@@ -395,7 +397,7 @@
 </details>
 
 ### :mortar_board: Knowledge testing
-<details> <summary><b>1. Книги</b><sup><img src="https://img.shields.io/badge/Изучено-20%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
+<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-20%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
@@ -433,7 +435,7 @@
   </tbody>
 </table>
 </details>
-<details> <summary><b>2. Теория тестирования</b> <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
+<details> <summary>2. Теория тестирования <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
    <ol>
 	<li>Основные понятия</li>
   	<li>Обязанности тестировщика</li>
@@ -454,7 +456,7 @@
    	<li>Метрики тестирования</li>
    </ol>
 </details>
-<details> <summary><b>3. Тестирование web приложений и API</b><sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
+<details> <summary>3. Тестирование web приложений и API<sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
    <ol>
 	<li>Клиент-серверная архитектура</li>
    	<li>HTTP- протокол, структура запроса и ответа</li>
@@ -476,7 +478,7 @@
    </ol>
 </details>
 
-<details> <summary><b>4. Дополнительные навыки</b><sup><img src="https://img.shields.io/badge/Изучено-40%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary> 
+<details> <summary>4. Дополнительные навыки<sup><img src="https://img.shields.io/badge/Изучено-40%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary> 
     <ol>
 	<li>Работа с командной строкой (Windows, Linux), Bash</li>
    	<li>Знание Jmeter (инструмент нагрузочного тестирования)</li>
@@ -489,7 +491,7 @@
    </ol>
 </details>
    
-<details> <summary><b>5. Базы данных</b><sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary>
+<details> <summary>5. Базы данных<sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary>
    <ol>
 	<li>Виды баз данных</li>
    	<li>Нормальные формы</li>
@@ -500,10 +502,10 @@
 </details>    
 
 ### :mag_right: Need to study  
- <details> <summary><b>1. Тестирование десктопных приложений</b></summary><br></details>
- <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
- <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
- <details> <summary><b>4. Английский язык</b></summary><br></details>
+ <details> <summary>1. Тестирование десктопных приложений</summary><br></details>
+ <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
+ <details> <summary>3. Автоматизация тестирования</summary><br></details>
+ <details> <summary>4. Английский язык</summary><br></details>
 
 <div align="center">
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
