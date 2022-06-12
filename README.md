@@ -397,12 +397,17 @@
 </details>
 
 ### :mortar_board: Knowledge testing
-<details> <summary><b>1. Книги</b></summary><br>
-   1. «Тестирование Дот Ком», Р. Савин <br>
-   2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
-   3. «Тестирование программного обеспечения. Базовый курс», С. Куликов <br>
-   4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг <br>
-   5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер  
+<details> <summary><b>1. Книги</b></summary>
+   1. «Тестирование Дот Ком», Р. Савин &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/complete-100%25-blue?style=plastic&logo&logoColor=white"> </br>
+   2. «A Practitioner’s Guide to Software Test Design», L. Copeland &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
+   3. «Тестирование программного обеспечения. Базовый курс», С. Куликов &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
+   4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
+   5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер &nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br>  
 </details>
 <details> <summary><b>2. Теория тестирования</b></summary><br>
    1. Основные понятия<br>
@@ -458,9 +463,3 @@
  <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
  <details> <summary><b>4. Английский язык</b></summary><br></details>
- 
- 
- <a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
