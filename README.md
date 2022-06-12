@@ -451,11 +451,22 @@
 </details>
 
 <details> <summary><b>4. Дополнительные навыки</b></a></summary><br>
-
+   1. Работа с командной строкой (Windows, Linux), Bash<br>
+   2. Знание Jmeter (инструмент нагрузочного тестирования)<br>
+   3. PixelPerfect (инструмент тестирования GUI)<br>
+   4. Ведение деловой переписки<br>
+   5. Знание Git<br>
+   6. CI/CD<br>
+   7. Тестирование "Железа"<br>
+   8. Работа с виртуальными машинами <br>
 </details>
    
 <details> <summary><b>4. Базы данных</b></a></summary><br>
-
+   1. Виды баз данных<br>
+   2. Нормальные формы<br>
+   3. БД и СУБД (полулярные СУБД) <br>
+   4. SQL<br>
+   5. NoSQL на примере MongoDB<br>
 </details>    
 
 ### :mag_right: Need to study  
