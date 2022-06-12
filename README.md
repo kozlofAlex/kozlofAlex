@@ -138,8 +138,6 @@
 		<td>Severity</td>
 		<td>Major</td>
 	</tr>
-	
-	
 	<tr>
 		<td>Author</td>
 		<td>Alex</td>
