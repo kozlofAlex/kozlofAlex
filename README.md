@@ -398,15 +398,15 @@
 
 ### :mortar_board: Knowledge testing
 <details> <summary><b>1. Книги</b></summary>
-   1. «Тестирование Дот Ком», Р. Савин &nbsp;&nbsp; 
+   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">1. «Тестирование Дот Ком», Р. Савин</a> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-100%25-blue?style=plastic&logo&logoColor=white"> </br>
-   2. «A Practitioner’s Guide to Software Test Design», L. Copeland &nbsp;&nbsp; 
+   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">2. «A Practitioner’s Guide to Software Test Design», L. Copeland</a> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   3. «Тестирование программного обеспечения. Базовый курс», С. Куликов &nbsp;&nbsp; 
+   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">3. «Тестирование программного обеспечения. Базовый курс», С. Куликов</a> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг&nbsp;&nbsp; 
+   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг</a> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер &nbsp;&nbsp; 
+   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер</a> &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br>  
 </details>
 <details> <summary><b>2. Теория тестирования</b></summary>
