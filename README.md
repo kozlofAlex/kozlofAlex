@@ -59,6 +59,7 @@
 
 ### :pencil: Examples Test Documentation
 <details> <summary>Test Case</summary></br>
+<details> <summary>Example #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -69,8 +70,22 @@
 		<td></td>
 	</tr>
 </table>
+</details>
+<details> <summary>Example #2</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
 </details>
 <details> <summary>Сheck list</summary></br>
+<details> <summary>Example #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -82,7 +97,45 @@
 	</tr>
 </table>
 </details>
-
+<details> <summary>Example #2</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
+</details>
+<details> <summary>Bug report</summary></br>
+<details> <summary>Example #1</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
+<details> <summary>Example #2</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
+</details>
 
 ### :office: Career path
 <details open> <summary>Career</summary></br>
