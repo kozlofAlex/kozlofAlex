@@ -511,4 +511,3 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:kozlaleksan2009@mail.ru" target="_blank"><img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </div>
-
