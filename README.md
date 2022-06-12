@@ -6,7 +6,6 @@
 </br>
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></br>
-<a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></br></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
@@ -17,24 +16,27 @@
 </br></br></br>  
 
 ### :microphone: About me
-Работаю it специалистом более 6 лет, имею хороший технический бэкграунд, знаю теорию тестирования, постоянно изучаю новые методы тестирования и применяю их 
+Работаю it специалистом **более 6 лет**, имею хороший технический бэкграунд, знаю теорию тестирования, постоянно изучаю новые методы тестирования и применяю их 
 на практике.  
-1. ⚙️ Навыки:  
-    >Составление тестовой документации (тест-кейсов, чек-листов)   
-    >Оформление баг-репортов  
-    >Использование различных техник тест дизайна   
+1. ⚙️ Навыки тестирования:  
+    - Составление тестовой документации (тест-кейсов, чек-листов)   
+    - Оформление баг-репортов  
+    - Использование техник тест-дизайна (классы эквивалентности, граничные значения, матрица принятия решений, причина-следствие, mindmap, pairwise)  
 2. 🛠️ Работа с базами данных:  
-    >Составление выборок (SELECT, JOIN, ORDER BY и т.д.)  
-    >Создание объектов БД (DATABASE, TABLE, VIEW, PROCEDURE)  
-    >Изменения информации БД (CREATE, UPDATE, DELETE, INSERT)  
-3. 💻 Ведение веб сайтов:
-    >HTML  
-    >CSS  
-    >JavaScript    
-4. ⚡️ Интересы:
-    >Люблю Sci-fi 👽  
-    >Увлекаюсь тяжелой атлетикой 💪  
-    >Просмотр films и serials 🎞️  
+    - Составление выборок средней сложности (SELECT, JOIN, ORDER BY, HAVING, GROUP BY, агрегирующие функции, многоуровневые вложенные запросы)  
+    - Создание объектов БД (DATABASE, TABLE, VIEW, PROCEDURE, INDEX)  
+    - Манипуляции с данными в БД (CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE)  
+3. ⛏️ Работа с инструментами:
+    - IntelliJ IDEA, DataGrip  
+    - Jira, Confluence   
+4. 💻 Сопровождение веб-сайтов:
+    - HTML (верстка страниц сайта)   
+    - CSS (создание стилей)   
+    - JavaScript (создание интерактивных элементов)   
+5. ⚡️ Интересы:
+    - Люблю Sci-fi 👽  
+    - Увлекаюсь тяжелой атлетикой 💪  
+    - Просмотр фильмов и сериалов 🎞️  
 
 ### 🛠 &nbsp; Skills
 <img src="https://github.com/kozlofAlex/testing/blob/main/img/Night-Coding.webp" align="right" />
@@ -45,12 +47,9 @@
 ![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
@@ -133,8 +132,14 @@
 	</tr>
 	<tr>
 		<td>Priority</td>
-		<td>Defect</td>
+		<td>Low</td>
 	</tr>
+	<tr>
+		<td>Severity</td>
+		<td>Major</td>
+	</tr>
+	
+	
 	<tr>
 		<td>Author</td>
 		<td>Alex</td>
@@ -173,10 +178,9 @@
 	</tr>
 	<tr>
 		<td>September 2021 — </br>November 2021 </br><i>3 months</i></td>
-		<td><b>ООО «РАЙТКОД»</b></br>
+		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
-		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
-		<b>Stack:</b></br>          
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>     
 	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 		  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 		  <img src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white">
@@ -184,12 +188,11 @@
 	</tr>
 	<tr>
 		<td>May 2019 — </br>August 2021</br><i>2 years 4 months</i></td>
-		<td><b>ОАО «Согаз-Мед»</b></br>
+		<td><b>«Согаз-Мед»</b></br>
 		<b>Главный специалист Группы информационных технологий</b></br>
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL. 
 	        Консультирование пользователей, работа с офисной техникой. 
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
-		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
@@ -197,13 +200,12 @@
 	</tr>
 	<tr>
 		<td>January 2016 — </br>April 2019 </br><i>3 years 4 months</i></td>
-		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
+		<td><b>«Информационно-аналитический центр»</b></br>
 		<b>Главный специалист отдела информационных технологий</b></br>
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
 		Контент-менеджмент сайта министерства соцразвития</br>
-		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -213,10 +215,9 @@
 	</tr>
 	<tr>
 		<td>December 2014 — </br>December 2015</br><i>1 year 1 month</i></td>
-		<td><b>КОГБУСО «Реабилитационный центр для инвалидов молодого возраста»</b></br>
+		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
-		<b>Stack:</b></br> 
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -236,10 +237,10 @@
 	</tr>
 	<tr>
 		<td>September 2009 — </br>September 2014</br><i>5 years</i></td>
-		<td>Окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
-                 Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
-                 Дипломная работа: <b>Разработка приложения 3D-тетрис на Android</b></br>  
-                 <b>Stack:</b></br> 
+		<td>Вятский государственный гуманитарный университет</br>    
+                 Факультет информатики, математики и физики, Прикладная математика и информатика</br></br> 
+		 Квалификация - <b>математик, системный программист</b></br></br>   
+                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br>  
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -311,3 +312,9 @@
  <details> <summary><b>2. Тестирование мобильных приложений</b></summary><br></details>   
  <details> <summary><b>3. Автоматизация тестирования</b></summary><br></details>
  <details> <summary><b>4. Английский язык</b></summary><br></details>
+ 
+ 
+ <a href="https://github.com/kozlofAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
