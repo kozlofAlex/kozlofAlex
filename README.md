@@ -172,7 +172,7 @@
 	</tr>
 	<tr>
 		<td><b>Assigned to</b></td>
-		<td>Alex</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td><b>Date</b></td>
@@ -180,7 +180,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #1</summary></br>
+<details> <summary>Example #2</summary></br>
 <table>
 	<tr>
 		<th>Name</th>
@@ -188,11 +188,11 @@
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
-		<td>PI100</td>
+		<td>PI101</td>
 	</tr>
 	<tr>
 		<td><b>Summary</b></td>
-		<td>При изменении локализации на United States отсутствует возможность вернуться на локализацию Россия</td>
+		<td>При изменении локализации на China открывается сайт с ошибкой ERR_CERT_DATE_INVALID</td>
 	</tr>
 	<tr>
 		<td><b>Type</b></td>
@@ -208,7 +208,7 @@
 	</tr>
 	<tr>
 		<td><b>Severity</b></td>
-		<td>Major</td>
+		<td>Critical</td>
 	</tr>
 	<tr>
 		<td><b>Status</b></td>
@@ -223,14 +223,14 @@
 		<td><b>Шаги для воспроизведения:</b></br> 
 			&nbsp;&nbsp;1. Открыть сайт</br>
 			&nbsp;&nbsp;2. Навести курсор на кнопку для смены локализации</br>
-			&nbsp;&nbsp;3. Выбрать локализацию United States</br>
-		     <b>Фактический результат: </b>при переходе на англоязычную версию сайта отсутствует возможность сменить локализацию на Russia</br>
-		     <b>Ожидаемый результат: </b>переход на англоязычную версию сайта, на которой присутствует возможность смены локализации на Russia
+			&nbsp;&nbsp;3. Выбрать локализацию China</br>
+		     <b>Фактический результат: </b>открывается страница с ошибкой Подключение не защищено (NET::ERR_CERT_DATE_INVALID)</br>
+		     <b>Ожидаемый результат: </b>переход на версию сайта для китайского рынка
 		</td>
 	</tr>
 	<tr>
 		<td><b>Attachments</b></td>
-		<td><a href= "https://github.com/kozlofAlex/testing/blob/main/img/PI100.png"><img align='left' src="https://github.com/kozlofAlex/testing/blob/main/img/PI100.png" width="100" height="70"/></a></td>
+		<td><a href= "https://github.com/kozlofAlex/testing/blob/main/img/PI101.png"><img align='left' src="https://github.com/kozlofAlex/testing/blob/main/img/PI101.png" width="150" height="100"/></a><a href= "https://github.com/kozlofAlex/testing/blob/main/img/PI101_2.png"><img align='left' src="https://github.com/kozlofAlex/testing/blob/main/img/PI101_2.png" width="150" height="100"/></a></td>
 	</tr>
 	<tr>
 		<td><b>Author</b></td>
@@ -238,7 +238,73 @@
 	</tr>
 	<tr>
 		<td><b>Assigned to</b></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td><b>Date</b></td>
+		<td>2022/01/12</td>
+	</tr>
+</table>
+</details>
+<details> <summary>Example #3</summary></br>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+	</tr>
+	<tr>
+		<td><b>ID</b></td>
+		<td>PI102</td>
+	</tr>
+	<tr>
+		<td><b>Summary</b></td>
+		<td>Страница ****: при установке ширины браузера меньше 768px надпись в кнопке Заказа тарифа смещается</td>
+	</tr>
+	<tr>
+		<td><b>Type</b></td>
+		<td>Defect</td>
+	</tr>
+	<tr>
+		<td><b>Bild</b></td>
+		<td>1.3456</td>
+	</tr>
+	<tr>
+		<td><b>Priority</b></td>
+		<td>Low</td>
+	</tr>
+	<tr>
+		<td><b>Severity</b></td>
+		<td>Minor</td>
+	</tr>
+	<tr>
+		<td><b>Status</b></td>
+		<td>Open</td>
+	</tr>
+	<tr>
+		<td><b>Environment</b></td>
+		<td>Windows 10 Pro bild 19044.1741, Google Chrome bild 102.0.5005.63</td>
+	</tr>
+	<tr>
+		<td><b>Description</b></td>
+		<td><b>Шаги для воспроизведения:</b></br> 
+			&nbsp;&nbsp;1. Открыть сайт</br>
+			&nbsp;&nbsp;2. Перейти на страницу &#10057;&#10057;&#10057;&#10057;</br>
+			&nbsp;&nbsp;3. Выбрать локализацию China</br>
+		     <b>Фактический результат: </b>надпись Заказать в разделе тарифа вылазит за границы кнопки</br>
+		     <b>Ожидаемый результат: </b>размер шрифта надписи уменьшается пропорционально кнопки
+		</td>
+	</tr>
+	<tr>
+		<td><b>Attachments</b></td>
+		<td><a href= "https://github.com/kozlofAlex/testing/blob/main/img/PI102.png"><img align='left' src="https://github.com/kozlofAlex/testing/blob/main/img/PI102.png" width="150" height="100"/></a></td>
+	</tr>
+	<tr>
+		<td><b>Author</b></td>
 		<td>Alex</td>
+	</tr>
+	<tr>
+		<td><b>Assigned to</b></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td><b>Date</b></td>
