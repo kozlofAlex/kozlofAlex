@@ -409,7 +409,7 @@
    5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер &nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br>  
 </details>
-<details> <summary><b>2. Теория тестирования</b></summary><br>
+<details> <summary><b>2. Теория тестирования</b></summary>
    1. Основные понятия<br>
    2. Обязанности тестировщика<br>
    3. Принципы тестирования<br>
@@ -428,7 +428,7 @@
    16. Тестовая документация<br>
    17. Метрики тестирования 
 </details>
-<details> <summary><b>3. Тестирование web приложений и API</b></summary><br>
+<details> <summary><b>3. Тестирование web приложений и API</b></summary>
    1. Клиент-серверная архитектура<br>
    2. HTTP- протокол, структура запроса и ответа<br>
    3. API<br>
@@ -450,7 +450,7 @@
    19. Анализ логов (Kibana, Elasticsearch)
 </details>
 
-<details> <summary><b>4. Дополнительные навыки</b></a></summary><br>
+<details> <summary><b>4. Дополнительные навыки</b></a></summary>
    1. Работа с командной строкой (Windows, Linux), Bash<br>
    2. Знание Jmeter (инструмент нагрузочного тестирования)<br>
    3. PixelPerfect (инструмент тестирования GUI)<br>
@@ -461,7 +461,7 @@
    8. Работа с виртуальными машинами <br>
 </details>
    
-<details> <summary><b>4. Базы данных</b></a></summary><br>
+<details> <summary><b>4. Базы данных</b></a></summary>
    1. Виды баз данных<br>
    2. Нормальные формы<br>
    3. БД и СУБД (полулярные СУБД) <br>
