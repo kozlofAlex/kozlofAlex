@@ -17,36 +17,35 @@
 </br></br></br>  
 
 ### :microphone: About me
-I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
-
-- 🏢 I'm currently working at **Worklife**
-- 🚀 I use daily:
-- 💻 I work using:
-- ⚙️ I also use and work:
-- 🌱 Learning all about:
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
-
+Работаю it специалистом более 6 лет, имею хороший технический бэкграунд и знаю теорию тестирования    
+1. Навыки:  
+    >Составление тестовой документации (тест-кейсов, чек-листов)   
+    >Оформление баг-репортов  
+    >Использование различных техник тест дизайна   
+2. 🚀 I use daily:  
+3. 💻 I work using:  
+4. ⚙️ I also use and work:  
+5. 🌱 Learning all about:  
+6. ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 ### 🛠 &nbsp; Skills
 <img src="https://github.com/kozlofAlex/testing/blob/main/img/Night-Coding.webp" align="right" />
 
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;
-
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 </br></br></br> </br>
 
