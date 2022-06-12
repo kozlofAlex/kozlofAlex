@@ -1,11 +1,11 @@
 <h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA </h2>  
 <div align="center">
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/giphy.webp" width="500" height="300"/>
-</div>
+</div></br>
 <a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
-</br></br></br>
+</br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
@@ -18,13 +18,13 @@
 Работаю IT-специалистом **более 6 лет**, имею хороший технический бэкграунд, знаю теорию тестирования, постоянно изучаю новые методы тестирования и применяю их 
 на практике.  
 1. ⚙️ **Навыки тестирования:**  
-    - Составление тестовой документации (тест-кейсов, чек-листов)   
-    - Оформление баг-репортов  
-    - Использование техник тест-дизайна (классы эквивалентности, граничные значения, матрица принятия решений, причина-следствие, mindmap, Pairwise testing)  
+    - Составляю тестовую документацию (тест-кейсы, чек-листы)   
+    - Оформляю баг-репорты   
+    - Использую техники тест-дизайна (классы эквивалентности, граничные значения, матрица принятия решений, причина-следствие, mindmap, Pairwise)  
 2. 🛠️ **Работа с базами данных:**  
-    - Составление выборок средней сложности (SELECT, JOIN, ORDER BY, HAVING, GROUP BY, агрегирующие функции, многоуровневые вложенные запросы)  
-    - Создание объектов БД (DATABASE, TABLE, VIEW, PROCEDURE, INDEX)  
-    - Манипуляции с данными в БД (CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE)  
+    - Составляю выборки средней сложности (SELECT, JOIN, ORDER BY, HAVING, GROUP BY, агрегирующие функции, многоуровневые вложенные запросы)  
+    - Создаю объекты БД (DATABASE, TABLE, VIEW, PROCEDURE, INDEX)  
+    - Манипулирую данными в БД (CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE)  
 3. ⛏️ **Работа с инструментами:**
     - IntelliJ IDEA, DataGrip  
     - Jira, Confluence   
@@ -50,9 +50,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
-
-<a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="50" height = "50" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img  width ="50" height = "50" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 
 ### :pencil: Examples Test Documentation
 <details> <summary>✳️ Test Case</summary></br>
