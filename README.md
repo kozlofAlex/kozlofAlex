@@ -59,6 +59,7 @@
 
 ### :pencil: Examples Test Documentation
 <details> <summary>Test Case</summary></br>
+<div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
 	<tr>
@@ -83,8 +84,10 @@
 	</tr>
 </table>
 </details>
+</div>
 </details>
 <details> <summary>Сheck list</summary></br>
+<div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
 	<tr>
@@ -109,8 +112,11 @@
 	</tr>
 </table>
 </details>
+</div>
 </details>
+
 <details> <summary>Bug report</summary></br>
+<div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
 	<tr>
@@ -135,6 +141,7 @@
 	</tr>
 </table>
 </details>
+</div>
 </details>
 
 ### :office: Career path
