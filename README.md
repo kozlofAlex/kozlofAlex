@@ -120,20 +120,32 @@
 <details> <summary>Example #1</summary></br>
 <table>
 	<tr>
-		<th width="200">Name</th>
+		<th>Name</th>
 		<th>Description</th>
 	</tr>
 	<tr>
 		<td>ID</td>
-		<td>1</td>
+		<td>PI100</td>
+	</tr>
+	<tr>
+		<td>Type</td>
+		<td>Defect</td>
+	</tr>
+	<tr>
+		<td>Priority</td>
+		<td>Defect</td>
 	</tr>
 	<tr>
 		<td>Author</td>
 		<td>Alex</td>
 	</tr>
 	<tr>
-		<td>to assigned</td>
+		<td>Assigned to</td>
 		<td>Alex</td>
+	</tr>
+	<tr>
+		<td>Status</td>
+		<td>Open</td>
 	</tr>
 </table>
 </details>
