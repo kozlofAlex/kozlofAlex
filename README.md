@@ -10,7 +10,7 @@
 <a href="https://tlgg.ru/alex_kozov_91" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></br></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#pencil-examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#office-career-path"><b>Career path</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge-testing"><b>Knowledge testing</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
@@ -57,7 +57,7 @@
 
 </br></br></br> </br>
 
-### :pencil: Examples Test cases and Bug reports
+### :pencil: Examples Test Documentation
 
 ### :office: Career path
 <details open> <summary>Career</summary></br>
