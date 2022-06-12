@@ -401,34 +401,34 @@
    <table>
   <thead align="center">
     <tr border: none;>
-      <td><b></b></td>
+      <td><b>Name</b></td>
       <td><b>Complete</b></td>
       <td><b>Stars</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>«Тестирование Дот Ком» Р. Савин</b></td>
+      <td>«Тестирование Дот Ком» Р. Савин</td>
       <td><img src="https://img.shields.io/badge/Прочитано-100%25-blue?style=plastic&logo&logoColor=white"></td>	    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.3%2F5%20-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>«A Practitioner’s Guide to Software Test Design», L. Copeland</b></td>
+      <td>«A Practitioner’s Guide to Software Test Design», L. Copeland</td>
       <td><img src="https://img.shields.io/badge/Прочитано-0%25-blue?style=plastic&logo&logoColor=white"></td>    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.5%2F5%20-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>«Тестирование программного обеспечения. Базовый курс», С. Куликов</b></td>
+      <td>«Тестирование программного обеспечения. Базовый курс», С. Куликов</td>
       <td><img src="https://img.shields.io/badge/Прочитано-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.0%2F5%20-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>«Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг </b></td>
+      <td>«Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг</td>
       <td><img src="https://img.shields.io/badge/Прочитано-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.2%2F5%20-brightgreen"/></td>
     </tr>
     <tr>
-      <td><b>«Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер</b></td>
+      <td>«Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер</td>
       <td><img src="https://img.shields.io/badge/Прочитано-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.4%2F5%20-brightgreen"/></td>
     </tr>
@@ -436,63 +436,71 @@
 </table>
 </details>
 <details> <summary><b>2. Теория тестирования</b></summary>
-   1. Основные понятия<br>
-   2. Обязанности тестировщика<br>
-   3. Принципы тестирования<br>
-   4. Отличия QA и QC и Testing<br>
-   5. Верификация и валидация<br>
-   6. Уровни тестирования<br>
-   7. Жизненный цикл тестирования (STLC)<br>
-   8. Жизненный цикл ПО (SDLC)<br>
-   9. Модели разработки ПО<br>
-   10. SCRUM<br>
-   11. Требования и их анализ<br>
-   12. Отчёт о дефекте<br>
-   13. Severity vs Priority<br>
-   14. Основные виды тестирования ПО<br>
-   15. Техники тест-дизайна<br>
-   16. Тестовая документация<br>
-   17. Метрики тестирования 
+   <ol>
+	<li>Основные понятия</li>
+  	<li>Обязанности тестировщика</li>
+   	<li>Принципы тестирования</li>
+   	<li>Отличия QA и QC и Testing</li>
+   	<li>Верификация и валидация</li>
+   	<li>Уровни тестирования</li>
+   	<li>Жизненный цикл тестирования (STLC</li>
+   	<li>Жизненный цикл ПО (SDLC)</li>
+   	<li>Модели разработки ПО</li>
+   	<li>SCRUM</li>
+   	<li>Требования и их анализ</li>
+  	<li>Отчёт о дефекте</li>
+  	<li>Severity vs Priority</li>
+   	<li>Основные виды тестирования ПО</li>
+   	<li>Техники тест-дизайна</li>
+   	<li>Тестовая документация</li>
+   	<li>Метрики тестирования</li>
+   </ol>
 </details>
 <details> <summary><b>3. Тестирование web приложений и API</b></summary>
-   1. Клиент-серверная архитектура<br>
-   2. HTTP- протокол, структура запроса и ответа<br>
-   3. API<br>
-   4. Что происходит при отправке запроса на сервер<br>
-   5. HTTP - методы<br>
-   6. Коды ответов HTTP-сервера<br>
-   7. Работа с сетями<br>
-   8. Кэш, куки, веб-сокет<br>
-   9. HTML, CSS, JS<br>
-   10. Работа с DevTools<br>
-   11. Особенности (и отличия) REST и SOAP <br>
-   12. Отчёт о дефекте<br>
-   13. Severity vs Priority<br>
-   14. Анализаторы траффика Charles Proxy/Fiddler<br>
-   15. Знание Postman, SoapUI<br>
-   16. Идентификация, аутентификация, авторизация<br>
-   17. Виды авторизация <br>
-   18. Тестирование веб форм и веб элементов <br>
-   19. Анализ логов (Kibana, Elasticsearch)
+   <ol>
+	<li>Клиент-серверная архитектура</li>
+   	<li>HTTP- протокол, структура запроса и ответа</li>
+   	<li>API</li>
+   	<li>Что происходит при отправке запроса на сервер</li>
+   	<li>HTTP - методы</li>
+   	<li>Коды ответов HTTP-сервера</li>
+   	<li>Работа с сетями</li>
+   	<li>Кэш, куки, веб-сокет</li>
+   	<li>HTML, CSS, JS</li>
+   	<li>Работа с DevTools</li>
+   	<li>Особенности (и отличия) REST и SOAP</li>
+   	<li>Отчёт о дефекте</li>
+   	<li>Severity vs Priority</li>
+   	<li> Анализаторы траффика Charles Proxy/Fiddler</li>
+   	<li>Знание Postman, SoapUI</li>
+   	<li>Идентификация, аутентификация, авторизация</li>
+   	<li>Виды авторизация</li>
+   	<li>Тестирование веб форм и веб элементов</li>
+   	<li>Анализ логов (Kibana, Elasticsearch)</li>
+   </ol>
 </details>
 
-<details> <summary><b>4. Дополнительные навыки</b></a></summary>
-   1. Работа с командной строкой (Windows, Linux), Bash<br>
-   2. Знание Jmeter (инструмент нагрузочного тестирования)<br>
-   3. PixelPerfect (инструмент тестирования GUI)<br>
-   4. Ведение деловой переписки<br>
-   5. Знание Git<br>
-   6. CI/CD<br>
-   7. Тестирование "Железа"<br>
-   8. Работа с виртуальными машинами <br>
+<details> <summary><b>4. Дополнительные навыки</b></a></summary> 
+    <ol>
+	<li>Работа с командной строкой (Windows, Linux), Bash</li>
+   	<li>Знание Jmeter (инструмент нагрузочного тестирования)</li>
+   	<li>PixelPerfect (инструмент тестирования GUI)</li>
+  	<li>Ведение деловой переписки</li>
+ 	<li>Знание Git</li>
+  	<li>CI/CD</li>
+   	<li>Тестирование "Железа"</li>
+   	<li>Работа с виртуальными машинами</li>
+   </ol>
 </details>
    
-<details> <summary><b>4. Базы данных</b></a></summary>
-   1. Виды баз данных<br>
-   2. Нормальные формы<br>
-   3. БД и СУБД (полулярные СУБД) <br>
-   4. SQL<br>
-   5. NoSQL на примере MongoDB<br>
+<details> <summary><b>5. Базы данных</b></a></summary>
+   <ol>
+	<li>Виды баз данных</li>
+   	<li>Нормальные формы</li>
+   	<li>БД и СУБД (полулярные СУБД) </li>
+   	<li>SQL</li>
+   	<li>NoSQL на примере MongoDB</li>
+   </ol>
 </details>    
 
 ### :mag_right: Need to study  
