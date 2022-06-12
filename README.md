@@ -1,4 +1,4 @@
-<h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA</h2>  
+<h3> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA</h3>  
 
 <div align="center">
   <img align='right' src="https://github.com/kozlofAlex/testing/blob/main/img/giphy.webp" width="500" height="300"/>
