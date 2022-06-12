@@ -316,7 +316,7 @@
 </details>
 
 ### :office: Career path
-<details open> <summary>Career</summary></br>
+<details open> <summary>Experience</summary></br>
 <table>
 	<tr>
 		<th  width="200">Period</th>
