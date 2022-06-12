@@ -1,4 +1,4 @@
-# Hello everyone :wave:, my name is Alexander and i'm Junior QA  
+<h2> Hello everyone :wave:, my name is Alexander</br> i'm Junior QA</h2>  
 
 <div align="center">
   <img align='right' src="https://github.com/kozlofAlex/testing/blob/main/img/giphy.webp" width="500" height="300"/>
@@ -12,11 +12,12 @@
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#pencil-examples-test-cases-and-bug-reports"><b>Examples Test cases and Bug reports</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#office-career-path"><b>Career path</b></a></br>
-<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge"><b>Knowledge</b></a></br>
+<a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mortar_board-knowledge-testing"><b>Knowledge testing</b></a></br>
 <a href= "https://github.com/kozlofAlex/testing/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
 </br></br></br>  
 
 ### :microphone: About me
+
 
 
 ### 🛠 &nbsp; Skills
@@ -42,13 +43,13 @@
 
 ### :office: Career path
 <details open> <summary>Career</summary></br>
-<table >
+<table>
 	<tr>
-		<th>Period</th>
+		<th  width="200">Period</th>
 		<th>Job</th>
 	</tr>
 	<tr>
-		<td>September 2021 — November 2021 </br><i>3 months</i></td>
+		<td>September 2021 — </br>November 2021 </br><i>3 months</i></td>
 		<td><b>ООО "РАЙТКОД"</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
@@ -59,7 +60,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>May 2019 — August 2021</br><i>2 years 4 months</i></td>
+		<td>May 2019 — </br>August 2021</br><i>2 years 4 months</i></td>
 		<td><b>ОАО "Согаз-Мед"</b></br>
 		<b>Главный специалист Группы информационных технологий</b></br>
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL. 
@@ -72,7 +73,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>January 2016 — April 2019 </br><i>3 years 4 months</i></td>
+		<td>January 2016 — </br>April 2019 </br><i>3 years 4 months</i></td>
 		<td><b>КОГКУ «Информационно-аналитический центр»</b></br>
 		<b>Главный специалист отдела информационных технологий</b></br>
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
@@ -88,7 +89,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>December 2014 — December 2015</br><i>1 year 1 month</i></td>
+		<td>December 2014 — </br>December 2015</br><i>1 year 1 month</i></td>
 		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
@@ -105,13 +106,13 @@
 </details>
 
 <details open> <summary>Education</summary></br>
-<table border="0" align="center" width="50%" cellspacing="0">
+<table>
 	<tr>
-		<th>Period</th>
+		<th width="200">Period</th>
 		<th>Education</th>
 	</tr>
 	<tr>
-		<td>September 2009 — September 2014</br><i>5 years</i></td>
+		<td>September 2009 — </br>September 2014</br><i>5 years</i></td>
 		<td>Окончил Вятский государственный гуманитарный университет <b>(ВятГГу)</b> г. Кирова</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика (математик, системный программист)</br>   
                  Дипломная работа: <b>Разработка приложения 3D-тетрис на Android</b></br>  
@@ -125,7 +126,7 @@
 </table>
 </details>
 
-### :mortar_board: Knowledge
+### :mortar_board: Knowledge testing
 <details> <summary><b>1. Книги</b></summary><br>
    1. «Тестирование Дот Ком», Р. Савин <br>
    2. «A Practitioner’s Guide to Software Test Design», L. Copeland <br>
