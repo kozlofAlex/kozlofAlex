@@ -53,7 +53,7 @@
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
 
 ### :pencil: Examples Test Documentation
-<details> <summary>Test Case</summary></br>
+<details> <summary>✳️ Test Case</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -81,7 +81,7 @@
 </details>
 </div>
 </details>
-<details> <summary>Сheck list</summary></br>
+<details> <summary>✅ Сheck list</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -110,7 +110,7 @@
 </div>
 </details>
 
-<details> <summary>Bug report</summary></br>
+<details> <summary>❌ Bug report</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -258,7 +258,7 @@
 	</tr>
 	<tr>
 		<td><b>Summary</b></td>
-		<td>Страница ****: при установке ширины браузера меньше 768px надпись в кнопке Заказа тарифа смещается</td>
+		<td>Страница &#10057;&#10057;&#10057;&#10057;: при установке ширины браузера меньше 768px надпись в кнопке Заказа тарифа смещается</td>
 	</tr>
 	<tr>
 		<td><b>Type</b></td>
