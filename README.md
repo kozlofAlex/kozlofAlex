@@ -51,10 +51,10 @@
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
 
 <p>
-<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft%20sql%20server.svg">
-<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">
-<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">
-<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">
+<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft%20sql%20server.png">
+<img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.png">
+<img widht ="120" height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">
+<img widht ="120" height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/Confluence.png">
 <img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html5.svg">
 <img height ="70" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">
 </p>  
