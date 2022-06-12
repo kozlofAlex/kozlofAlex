@@ -5,7 +5,7 @@
 <a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
-</br></br>
+</br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
