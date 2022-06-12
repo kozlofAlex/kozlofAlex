@@ -1,5 +1,5 @@
-<h2> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA </h2>  
-<div align="center">
+<h2 align = "center"> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA </h2>  
+<div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/giphy.webp" width="500" height="300"/>
 </div></br>
 <a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
