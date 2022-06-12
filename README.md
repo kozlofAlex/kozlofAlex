@@ -58,6 +58,31 @@
 </br></br></br> </br>
 
 ### :pencil: Examples Test Documentation
+<details> <summary>Test Case</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
+<details> <summary>Сheck list</summary></br>
+<table>
+	<tr>
+		<th width="200">Period</th>
+		<th>Education</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</details>
+
 
 ### :office: Career path
 <details open> <summary>Career</summary></br>
@@ -68,7 +93,7 @@
 	</tr>
 	<tr>
 		<td>September 2021 — </br>November 2021 </br><i>3 months</i></td>
-		<td><b>ООО "РАЙТКОД"</b></br>
+		<td><b>ООО «РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
 		<b>Stack:</b></br>          
@@ -79,7 +104,7 @@
 	</tr>
 	<tr>
 		<td>May 2019 — </br>August 2021</br><i>2 years 4 months</i></td>
-		<td><b>ОАО "Согаз-Мед"</b></br>
+		<td><b>ОАО «Согаз-Мед»</b></br>
 		<b>Главный специалист Группы информационных технологий</b></br>
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, фильтров в базе данных MS SQL. 
 	        Консультирование пользователей, работа с офисной техникой. 
@@ -108,7 +133,7 @@
 	</tr>
 	<tr>
 		<td>December 2014 — </br>December 2015</br><i>1 year 1 month</i></td>
-		<td><b>Реабилитационный центр для инвалидов молодого возраста</b></br>
+		<td><b>КОГБУСО «Реабилитационный центр для инвалидов молодого возраста»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
 		<b>Stack:</b></br> 
