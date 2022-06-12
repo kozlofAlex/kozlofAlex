@@ -119,31 +119,49 @@
 		<th>Description</th>
 	</tr>
 	<tr>
-		<td>ID</td>
+		<td><b>ID</b></td>
 		<td>PI100</td>
 	</tr>
 	<tr>
-		<td>Type</td>
+		<td><b>Type</b></td>
 		<td>Defect</td>
 	</tr>
 	<tr>
-		<td>Priority</td>
+		<td><b>Priority</b></td>
 		<td>Low</td>
 	</tr>
 	<tr>
-		<td>Severity</td>
+		<td><b>Severity</b></td>
 		<td>Major</td>
 	</tr>
 	<tr>
-		<td>Author</td>
+		<td><b>Environment</b></td>
+		<td>Windows 10 Pro bild 19044.1741, Google Chrome bild 102.0.5005.63</td>
+	</tr>
+	<tr>
+		<td><b>Description</b></td>
+		<td><b>STR:</b></br> 
+			1. Открыть сайт</br>
+			2. Навести курсор на кнопку для смены локализации</br>
+			3. Выбрать локализацию United States</br>
+		     <b>Result: </b>при переходе на англоязычную версию сайта отсутствует возможность сменить локализацию на Russia
+		     <b>Expected Result: </b>переход на англоязычную версию сайта, на которой присутствует возможность смены локализации на Russia
+		</td>
+	</tr>
+	<tr>
+		<td><b>Attachments</b></td>
+		<td><a href= "https://github.com/kozlofAlex/testing/blob/main/img/PI100.png"><img align='left' src="https://github.com/kozlofAlex/testing/blob/main/img/PI100.png" width="100" height="70"/></a></td>
+	</tr>
+	<tr>
+		<td><b>Author</b></td>
 		<td>Alex</td>
 	</tr>
 	<tr>
-		<td>Assigned to</td>
+		<td><b>Assigned to</b></td>
 		<td>Alex</td>
 	</tr>
 	<tr>
-		<td>Status</td>
+		<td><b>Status</b></td>
 		<td>Open</td>
 	</tr>
 </table>
