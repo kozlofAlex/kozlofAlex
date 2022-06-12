@@ -398,16 +398,42 @@
 
 ### :mortar_board: Knowledge testing
 <details> <summary><b>1. Книги</b></summary>
-   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">1. «Тестирование Дот Ком», Р. Савин</a> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/complete-100%25-blue?style=plastic&logo&logoColor=white"> </br>
-   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">2. «A Practitioner’s Guide to Software Test Design», L. Copeland</a> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">3. «Тестирование программного обеспечения. Базовый курс», С. Куликов</a> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">4. «Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг</a> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br> 
-   <a href= "https://github.com/kozlofAlex/testing/blob/main/Books.md">5. «Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер</a> &nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"> </br>  
+   <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b></b></td>
+      <td><b>Complete</b></td>
+      <td><b>Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>«Тестирование Дот Ком» Р. Савин</b></td>
+      <td><img src="https://img.shields.io/badge/complete-100%25-blue?style=plastic&logo&logoColor=white"></td>	    
+      <td><img alt="Stars" src="https://img.shields.io/badge/rating-4.3%2F5%20-brightgreen"/></td>
+    </tr>
+    <tr>
+      <td><b>«A Practitioner’s Guide to Software Test Design», L. Copeland</b></td>
+      <td><img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"></td>    
+      <td><img alt="Stars" src="https://img.shields.io/badge/rating-4.5%2F5%20-brightgreen"/></td>
+    </tr>
+    <tr>
+      <td><b>«Тестирование программного обеспечения. Базовый курс», С. Куликов</b></td>
+      <td><img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
+      <td><img alt="Stars" src="https://img.shields.io/badge/rating-4.0%2F5%20-brightgreen"/></td>
+    </tr>
+    <tr>
+      <td><b>«Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг </b></td>
+      <td><img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
+      <td><img alt="Stars" src="https://img.shields.io/badge/rating-4.2%2F5%20-brightgreen"/></td>
+    </tr>
+    <tr>
+      <td><b>«Искусство тестирования программ», Г. Майерс, Т. Баджетт, К. Сандлер</b></td>
+      <td><img src="https://img.shields.io/badge/complete-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
+      <td><img alt="Stars" src="https://img.shields.io/badge/rating-4.4%2F5%20-brightgreen"/></td>
+    </tr>
+  </tbody>
+</table>
 </details>
 <details> <summary><b>2. Теория тестирования</b></summary>
    1. Основные понятия<br>
