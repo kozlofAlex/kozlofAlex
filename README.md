@@ -1,4 +1,4 @@
-<h2 align = "center"> Hello everyone :wave:, my name is Alexander</br> I'm Junior QA </h2>  
+<h2 align = "center"> Hi everyone, my name is Alexander</br> I'm Junior QA </h2>  
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
