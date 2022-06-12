@@ -395,7 +395,7 @@
 </details>
 
 ### :mortar_board: Knowledge testing
-<details> <summary><b>1. Книги</b></summary></br>
+<details> <summary><b>1. Книги</b><sup><img src="https://img.shields.io/badge/Изучено-20%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
@@ -433,7 +433,7 @@
   </tbody>
 </table>
 </details>
-<details> <summary><b>2. Теория тестирования</b></summary>
+<details> <summary><b>2. Теория тестирования</b> <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
    <ol>
 	<li>Основные понятия</li>
   	<li>Обязанности тестировщика</li>
@@ -454,7 +454,7 @@
    	<li>Метрики тестирования</li>
    </ol>
 </details>
-<details> <summary><b>3. Тестирование web приложений и API</b></summary>
+<details> <summary><b>3. Тестирование web приложений и API</b><sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
    <ol>
 	<li>Клиент-серверная архитектура</li>
    	<li>HTTP- протокол, структура запроса и ответа</li>
@@ -476,7 +476,7 @@
    </ol>
 </details>
 
-<details> <summary><b>4. Дополнительные навыки</b></a></summary> 
+<details> <summary><b>4. Дополнительные навыки</b><sup><img src="https://img.shields.io/badge/Изучено-40%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary> 
     <ol>
 	<li>Работа с командной строкой (Windows, Linux), Bash</li>
    	<li>Знание Jmeter (инструмент нагрузочного тестирования)</li>
@@ -489,7 +489,7 @@
    </ol>
 </details>
    
-<details> <summary><b>5. Базы данных</b></a></summary>
+<details> <summary><b>5. Базы данных</b><sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary>
    <ol>
 	<li>Виды баз данных</li>
    	<li>Нормальные формы</li>
