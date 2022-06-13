@@ -55,7 +55,7 @@
 ### :pencil: Примеры тестовой документации
 <details> <summary>✳️ Тест-кейсы</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -67,7 +67,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -83,7 +83,7 @@
 </details>
 <details> <summary>✅ Чек-листы</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -95,7 +95,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -112,11 +112,11 @@
 
 <details> <summary>❌ Баг репорты</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -180,11 +180,11 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -246,11 +246,11 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #3</summary></br>
+<details> <summary>Пример #3</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -401,9 +401,9 @@
    <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Name</b></td>
-      <td><b>Complete</b></td>
-      <td><b>Stars</b></td>
+      <td><b>Название</b></td>
+      <td><b>Статус</b></td>
+      <td><b>Рейтинг</b></td>
     </tr>
   </thead>
   <tbody>
