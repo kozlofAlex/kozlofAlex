@@ -11,7 +11,7 @@
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#office-опыт-работы"><b>Опыт работы</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mag_right-план-развития"><b>План развития</b></a></br>
+<a href= "https://github.com/kozlofAlex#mag_right-need-to-study"><b>План развития</b></a></br>
 </br></br></br>  
 
 ### :microphone: Обо мне
