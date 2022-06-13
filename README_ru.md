@@ -6,7 +6,7 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 </br></br></br>
-<a href= "https://github.com/kozlofAlex/#microphone-обо-мне"><b>Обо мне</b></a></br>
+<a href= "https://github.com/kozlofAlex#microphone-обо-мне"><b>Обо мне</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#--навыки"><b>Навыки</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#office-опыт-работы"><b>Опыт работы</b></a></br>
