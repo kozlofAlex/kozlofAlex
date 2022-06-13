@@ -9,7 +9,7 @@
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-career-path"><b>Career path</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-career"><b>Career</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-knowledge-testing"><b>Knowledge testing</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
 </br></br></br>  
@@ -315,7 +315,7 @@
 </div>
 </details>
 
-### :office: Career path
+### :office: Career
 <details open> <summary>Experience</summary></br>
 <table>
 	<tr>
