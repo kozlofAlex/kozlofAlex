@@ -436,24 +436,24 @@
 </table>
 </details>
 <details> <summary>2. Теория тестирования <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
-   <ol>
-	<li>Основные понятия</li>
-  	<li>Обязанности тестировщика</li>
-   	<li>Принципы тестирования</li>
-   	<li>Отличия QA и QC и Testing</li>
-   	<li>Верификация и валидация</li>
-   	<li>Уровни тестирования</li>
-   	<li>Жизненный цикл тестирования (STLC</li>
-   	<li>Жизненный цикл ПО (SDLC)</li>
-   	<li>Модели разработки ПО</li>
-   	<li>SCRUM</li>
-   	<li>Требования и их анализ</li>
-  	<li>Отчёт о дефекте</li>
-  	<li>Severity vs Priority</li>
-   	<li>Основные виды тестирования ПО</li>
-   	<li>Техники тест-дизайна</li>
-   	<li>Тестовая документация</li>
-   	<li>Метрики тестирования</li>
+  <ol>
+	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Основные понятия</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Обязанности тестировщика</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Принципы тестирования</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Отличия QA и QC и Testing</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Верификация и валидация</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Уровни тестирования</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Жизненный цикл тестирования (STLC</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Жизненный цикл ПО (SDLC)</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Модели разработки ПО</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>SCRUM</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Требования и их анализ</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Отчёт о дефекте</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Severity vs Priority</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Основные виды тестирования ПО</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Техники тест-дизайна</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Тестовая документация</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Метрики тестирования</li></a>
    </ol>
 </details>
 <details> <summary>3. Тестирование web приложений и API<sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
