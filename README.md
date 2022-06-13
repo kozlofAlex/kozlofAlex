@@ -1,4 +1,4 @@
-<h2 align = "center"> Hi everyone, my name is Alexander</br> I'm Junior QA </h2>  
+<h2 align = "center"> Всем привет, меня зовут Александр</br> И я Junior QA </h2>  
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
@@ -6,15 +6,15 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 </br></br></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-career"><b>Career</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-knowledge-testing"><b>Knowledge testing</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#microphone-обо-мне"><b>Обо мне</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#--навыки"><b>Навыки</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#office-опыт-работы"><b>Опыт работы</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mag_right-need-to-study"><b>План развития</b></a></br>
 </br></br></br>  
 
-### :microphone: About me
+### :microphone: Обо мне
 Работаю IT-специалистом **более 6 лет**, имею хороший технический бэкграунд, знаю теорию тестирования, постоянно изучаю новые методы тестирования и применяю их 
 на практике.  
 1. ⚙️ **Навыки тестирования:**  
@@ -37,7 +37,7 @@
     - Увлекаюсь тяжелой атлетикой 💪  
     - Фильмы и сериалы 🎞️  
 
-### 🛠 &nbsp; Skills  
+### 🛠 &nbsp; Навыки  
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -52,10 +52,10 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
 
-### :pencil: Examples Test Documentation
-<details> <summary>✳️ Test Case</summary></br>
+### :pencil: Примеры тестовой документации
+<details> <summary>✳️ Тест-кейсы</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -67,7 +67,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -81,9 +81,9 @@
 </details>
 </div>
 </details>
-<details> <summary>✅ Сheck list</summary></br>
+<details> <summary>✅ Чек-листы</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -95,7 +95,7 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
 		<th width="200">Period</th>
@@ -110,13 +110,13 @@
 </div>
 </details>
 
-<details> <summary>❌ Bug report</summary></br>
+<details> <summary>❌ Баг репорты</summary></br>
 <div align="center">
-<details> <summary>Example #1</summary></br>
+<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -180,11 +180,11 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #2</summary></br>
+<details> <summary>Пример #2</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -246,11 +246,11 @@
 	</tr>
 </table>
 </details>
-<details> <summary>Example #3</summary></br>
+<details> <summary>Пример #3</summary></br>
 <table>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
+		<th>Поле</th>
+		<th>Описание</th>
 	</tr>
 	<tr>
 		<td><b>ID</b></td>
@@ -315,15 +315,15 @@
 </div>
 </details>
 
-### :office: Career
+### :office: Опыт работы
 <details open> <summary>Experience</summary></br>
 <table>
 	<tr>
-		<th  width="200">Period</th>
-		<th>Job</th>
+		<th  width="200">Период</th>
+		<th>Место работы</th>
 	</tr>
 	<tr>
-		<td>September 2021 — </br>November 2021 </br><i>3 months</i></td>
+		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>     
@@ -333,7 +333,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>May 2019 — </br>August 2021</br><i>2 years 4 months</i></td>
+		<td>Май 2019 — </br>Август 2021</br><i>2 года 4 месяца</i></td>
 		<td><b>«СОГАЗ-Мед»</b></br>
 		<b>Главный специалист Группы информационных технологий</b></br>
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
@@ -345,7 +345,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>January 2016 — </br>April 2019 </br><i>3 years 4 months</i></td>
+		<td>Январь 2016 — </br>Апрель 2019 </br><i>3 года 4 месяца</i></td>
 		<td><b>«Информационно-аналитический центр»</b></br>
 		<b>Главный специалист отдела информационных технологий</b></br>
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
@@ -360,7 +360,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td>December 2014 — </br>December 2015</br><i>1 year 1 month</i></td>
+		<td>Декабрь 2014 — </br>Декабрь 2015</br><i>1 год 1 месяц</i></td>
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
@@ -375,17 +375,17 @@
 </table>
 </details>
 
-<details open> <summary>Education</summary></br>
+<details open> <summary>Образование</summary></br>
 <table>
 	<tr>
-		<th width="200">Period</th>
-		<th>Education</th>
+		<th width="200">Период</th>
+		<th>Образование</th>
 	</tr>
 	<tr>
-		<td>September 2009 — </br>September 2014</br><i>5 years</i></td>
-		<td>Вятский государственный гуманитарный университет</br>    
-                 Факультет информатики, математики и физики, Прикладная математика и информатика</br></br> 
-		 Квалификация - <b>математик, системный программист</b></br></br>   
+		<td>Сентябрь 2009 — </br>Сентябрь 2014</br><i>5 years</i></td>
+		<td><p>Вятский государственный гуманитарный университет</br>    
+                 Факультет информатики, математики и физики, Прикладная математика и информатика</p>
+		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка мобильного приложения на Android</b></br>  
                   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -396,14 +396,14 @@
 </table>
 </details>
 
-### :mortar_board: Knowledge testing
+### :mortar_board: Знания в тестировании
 <details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-20%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Name</b></td>
-      <td><b>Complete</b></td>
-      <td><b>Stars</b></td>
+      <td><b>Название</b></td>
+      <td><b>Статус</b></td>
+      <td><b>Рейтинг</b></td>
     </tr>
   </thead>
   <tbody>
@@ -501,7 +501,7 @@
    </ol>
 </details>    
 
-### :mag_right: Need to study  
+### :mag_right: План развития  
  <details> <summary>1. Тестирование десктопных приложений</summary><br></details>
  <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>3. Автоматизация тестирования</summary><br></details>
