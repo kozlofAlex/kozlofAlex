@@ -1,4 +1,4 @@
-<h2 align = "center"> Всем привет, меня зовут Александр</br> И я тестировщик ПО </h2>  
+<h2 align = "center"> Всем привет, меня зовут Александр</br> И я Junior QA </h2>  
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
@@ -6,12 +6,12 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 </br></br></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>About me </b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Skills</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Examples Test Documentation</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-career"><b>Career</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-knowledge-testing"><b>Knowledge testing</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-need-to-study"><b>Need to study</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-about-me"><b>Обо мне</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--skills"><b>Навыки</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-examples-test-documentation"><b>Примеры тестовой документации</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-career"><b>Опыт работы</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-knowledge-testing"><b>Знания в тестировании</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-need-to-study"><b>План развития</b></a></br>
 </br></br></br>  
 
 ### :microphone: Обо мне
@@ -501,7 +501,7 @@
    </ol>
 </details>    
 
-### :mag_right: Need to study  
+### :mag_right: План развития  
  <details> <summary>1. Тестирование десктопных приложений</summary><br></details>
  <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>3. Автоматизация тестирования</summary><br></details>
