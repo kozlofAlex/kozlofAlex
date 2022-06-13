@@ -53,7 +53,7 @@
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
 
 ### :pencil: Примеры тестовой документации
-<details> <summary>✳️ Test Case</summary></br>
+<details> <summary>✳️ Тест-кейсы</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -81,7 +81,7 @@
 </details>
 </div>
 </details>
-<details> <summary>✅ Сheck list</summary></br>
+<details> <summary>✅ Чек-листы</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -110,7 +110,7 @@
 </div>
 </details>
 
-<details> <summary>❌ Bug report</summary></br>
+<details> <summary>❌ Баг репорты</summary></br>
 <div align="center">
 <details> <summary>Example #1</summary></br>
 <table>
@@ -319,11 +319,11 @@
 <details open> <summary>Experience</summary></br>
 <table>
 	<tr>
-		<th  width="200">Period</th>
-		<th>Job</th>
+		<th  width="200">Период</th>
+		<th>Место работы</th>
 	</tr>
 	<tr>
-		<td>September 2021 — </br>November 2021 </br><i>3 months</i></td>
+		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>     
@@ -379,7 +379,7 @@
 <table>
 	<tr>
 		<th width="200">Период</th>
-		<th>Education</th>
+		<th>Образование</th>
 	</tr>
 	<tr>
 		<td>Сентябрь 2009 — </br>Сентябрь 2014</br><i>5 years</i></td>
