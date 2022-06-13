@@ -7,11 +7,11 @@
 <a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#microphone-обо-мне"><b>Обо мне</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--навыки"><b>Навыки</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-опыт-работы"><b>Опыт работы</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-план-развития"><b>План развития</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#--навыки"><b>Навыки</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#office-опыт-работы"><b>Опыт работы</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README_ru.md#mag_right-план-развития"><b>План развития</b></a></br>
 </br></br></br>  
 
 ### :microphone: Обо мне
