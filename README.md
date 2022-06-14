@@ -582,7 +582,7 @@
 		<th>Образование</th>
 	</tr>
 	<tr>
-		<td>Сентябрь 2009 — </br>Сентябрь 2014</br><i>5 years</i></td>
+		<td>Сентябрь 2009 — </br>Сентябрь 2014</br><i>5 лет</i></td>
 		<td><p>Вятский государственный гуманитарный университет</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
@@ -597,7 +597,7 @@
 </details>
 
 ### :mortar_board: Знания в тестировании
-<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-20%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
+<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-25%40-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
