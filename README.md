@@ -526,6 +526,12 @@
 </details>
 </div>
 </details>
+<details> <summary>Применение техник тест-дизайна</summary><br>
+<div align="center">
+<details> <summary>Попарное тестирование</summary><br></details>
+</details>
+</div>
+
 
 ### :office: Опыт работы
 <details open> <summary>Experience</summary></br>
