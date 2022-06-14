@@ -526,7 +526,7 @@
 </details>
 </div>
 </details>
-<details> <summary>Применение техник тест-дизайна</summary><br>
+<details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br></details>
 <img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />	
