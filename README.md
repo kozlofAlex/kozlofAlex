@@ -194,7 +194,7 @@
 	</tr>
 	<tr>
 		<td><b>Окружение</b></td>
-		<td>Windows 10 Pro bild 19044.1741, </br> Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro, bild 19044.1741 </br> Google Chrome, bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Bild</b></td>
@@ -235,6 +235,29 @@
 		<td><b>China</b></td>
 		<td align = "center">❌</td>
 	</tr>
+	<tr>
+		<td colspan= "2" align = "center"><b>Способы связи</b></td>
+	</tr>
+	<tr>
+		<td><b>Открытая линия (чат)</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Viber</b></td>
+		<td align = "center">❌</td>
+	</tr>
+	<tr>
+		<td><b>Telegram</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Вконтакте</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Bitrix24</b></td>
+		<td align = "center">✅</td>
+	</tr>
 </table>	
 </details>
 <details> <summary>Пример #2</summary></br>
@@ -253,7 +276,7 @@
 	</tr>
 	<tr>
 		<td><b>Окружение</b></td>
-		<td>Windows 10 Pro bild 19044.1741, </br> Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro, bild 19044.1741 </br> Google Chrome, bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Bild</b></td>
