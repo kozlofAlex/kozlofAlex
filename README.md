@@ -258,7 +258,7 @@
 	</tr>
 	<tr>
 		<td><b>Окружение</b></td>
-		<td>Windows 10 Pro bild 19044.1741, </br> Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro bild 19044.1741 </br> Google Chrome bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Bild</b></td>
@@ -348,7 +348,7 @@
 	</tr>
 	<tr>
 		<td><b>Environment</b></td>
-		<td>Windows 10 Pro bild 19044.1741, Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro bild 19044.1741</br> Google Chrome bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Description</b></td>
@@ -416,7 +416,7 @@
 	</tr>
 	<tr>
 		<td><b>Environment</b></td>
-		<td>Windows 10 Pro bild 19044.1741, Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro bild 19044.1741</br> Google Chrome bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Description</b></td>
@@ -482,7 +482,7 @@
 	</tr>
 	<tr>
 		<td><b>Environment</b></td>
-		<td>Windows 10 Pro bild 19044.1741, Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro bild 19044.1741</br> Google Chrome bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Description</b></td>
