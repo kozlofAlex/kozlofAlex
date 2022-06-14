@@ -86,14 +86,68 @@
 <details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
-		<th width="200">Period</th>
-		<th>Education</th>
+		<th>Поле</th>
+		<th>Значение</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td><b>Автор</b></td>
+		<td>Козлов А.В.</td>
 	</tr>
-</table>
+	<tr>
+		<td><b>Дата</b></td>
+		<td>2022/01/01</td>
+	</tr>
+	<tr>
+		<td><b>Окружение</b></td>
+		<td>Windows 10 Pro bild 19044.1741, </br> Google Chrome bild 102.0.5005.63</td>
+	</tr>
+	<tr>
+		<td><b>Bild</b></td>
+		<td>1.3456</td>
+	</tr>
+	<tr>
+		<td colspan= "2" align = "center"><b>Регистрация</b></td>
+	</tr>
+	<tr>
+		<td><b>авыпаывнрчспнквепагневрпроретвп</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Окружение</b></td>
+		<td align = "center">❌</td>
+	</tr>
+	<tr>
+		<td><b>Bild</b></td>
+		<td align = "center">PI131</td>
+	</tr>
+	</tr>
+	<tr>
+		<td><b>Дата</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Окружение</b></td>
+		<td align = "center">❌</td>
+	</tr>
+	<tr>
+		<td><b>Bild</b></td>
+		<td align = "center">PI131</td>
+	</tr>
+	</tr>
+	<tr>
+		<td><b>Дата</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Окружение</b></td>
+		<td align = "center">❌</td>
+	</tr>
+	<tr>
+		<td><b>Bild</b></td>
+		<td align = "center">PI131</td>
+	</tr>
+</table>	
+	
 </details>
 <details> <summary>Пример #2</summary></br>
 <table>
