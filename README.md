@@ -597,7 +597,7 @@
 </details>
 
 ### :mortar_board: Знания в тестировании
-<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-25%40-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
+<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-25%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
