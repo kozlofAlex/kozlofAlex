@@ -26,8 +26,8 @@
     - Создаю объекты БД (*DATABASE, TABLE, VIEW, PROCEDURE, INDEX*)  
     - Умею манипулировать данными в БД (*CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE*)  
 3. ⛏️ **Работа с инструментами:**  
+    - Jira, Confluence      
     - DataGrip, IntelliJ IDEA   
-    - Jira, Confluence   
     - Postman, SoapUI
 4. 💻 **Сопровождение веб-сайтов:**  
     - HTML (*верстал страницы сайтов*)   
