@@ -2,16 +2,16 @@
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
-<a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:kozlaleksan2013@gmail.com" target="_blank"><img width ="40" height = "40" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a>
+<a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-обо-мне"><b>Обо мне</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--навыки"><b>Навыки</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-опыт-работы"><b>Опыт работы</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-need-to-study"><b>План развития</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-план-развития"><b>План развития</b></a></br>
 </br></br></br>  
 
 ### :microphone: Обо мне
@@ -22,22 +22,22 @@
     - Оформляю баг-репорты   
     - Использую техники тест-дизайна (*классы эквивалентности, граничные значения, матрица принятия решений, причина-следствие, mindmap, Pairwise*)  
 2. 🛠️ **Работа с базами данных:**  
-    - Составляю выборки средней сложности (*SELECT, JOIN, ORDER BY, HAVING, GROUP BY, агрегирующие функции, многоуровневые вложенные запросы*)  
+    - Составляю выборки средней сложности (*SELECT, JOIN, ORDER BY, HAVING, GROUP BY, CTE, агрегирующие функции, многоуровневые вложенные запросы*)  
     - Создаю объекты БД (*DATABASE, TABLE, VIEW, PROCEDURE, INDEX*)  
-    - Манипулирую данными в БД (*CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE*)  
+    - Умею манипулировать данными в БД (*CREATE, UPDATE, DELETE, INSERT, DROP, TRUNCATE*)  
 3. ⛏️ **Работа с инструментами:**
     - IntelliJ IDEA, DataGrip  
     - Jira, Confluence   
 4. 💻 **Сопровождение веб-сайтов:**
-    - HTML (*верстка страниц сайта*)   
-    - CSS (*создание стилей*)   
-    - JavaScript (*создание интерактивных элементов*)   
+    - HTML (*верстал страницы сайтов*)   
+    - CSS (*создавал стили*)   
+    - JavaScript (*создавал интерактивные элементы*)   
 5. ⚡️ **Интересы:**
     - Люблю Sci-fi 👽  
     - Увлекаюсь тяжелой атлетикой 💪  
     - Фильмы и сериалы 🎞️  
 
-### 🛠 &nbsp; Навыки  
+### 🛠 Навыки  
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -46,11 +46,11 @@
 ![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
 
 ### :pencil: Примеры тестовой документации
 <details><summary>✳️ Тест-кейсы</summary></br>
@@ -200,45 +200,39 @@
 		<td>1.3456</td>
 	</tr>
 	<tr>
-		<td colspan= "2" align = "center"><b>Регистрация</b></td>
+		<td colspan= "2" align = "center"><b>Проверка локализованных версий сайта</b></td>
 	</tr>
 	<tr>
-		<td><b>авыпаывнрчспнквепагневрпроретвп</b></td>
+		<td><b>Россия</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
-		<td align = "center">❌</td>
-	</tr>
-	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
-	</tr>
-	</tr>
-	<tr>
-		<td><b>Дата</b></td>
+		<td><b>Беларусь</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
-		<td align = "center">❌</td>
-	</tr>
-	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
-	</tr>
-	</tr>
-	<tr>
-		<td><b>Дата</b></td>
+		<td><b>Казахстан</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
+		<td><b>Украина</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Europe</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Romania</b></td>
 		<td align = "center">❌</td>
 	</tr>
 	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
+		<td><b>United States</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>China</b></td>
+		<td align = "center">❌</td>
 	</tr>
 </table>	
 </details>
@@ -258,52 +252,46 @@
 	</tr>
 	<tr>
 		<td><b>Окружение</b></td>
-		<td>Windows 10 Pro bild 19044.1741 </br> Google Chrome bild 102.0.5005.63</td>
+		<td>Windows 10 Pro bild 19044.1741, </br> Google Chrome bild 102.0.5005.63</td>
 	</tr>
 	<tr>
 		<td><b>Bild</b></td>
 		<td>1.3456</td>
 	</tr>
 	<tr>
-		<td colspan= "2" align = "center"><b>Регистрация</b></td>
+		<td colspan= "2" align = "center"><b>Проверка локализованных версий сайта</b></td>
 	</tr>
 	<tr>
-		<td><b>авыпаывнрчспнквепагневрпроретвп</b></td>
+		<td><b>Россия</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
-		<td align = "center">❌</td>
-	</tr>
-	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
-	</tr>
-	</tr>
-	<tr>
-		<td><b>Дата</b></td>
+		<td><b>Беларусь</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
-		<td align = "center">❌</td>
-	</tr>
-	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
-	</tr>
-	</tr>
-	<tr>
-		<td><b>Дата</b></td>
+		<td><b>Казахстан</b></td>
 		<td align = "center">✅</td>
 	</tr>
 	<tr>
-		<td><b>Окружение</b></td>
+		<td><b>Украина</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Europe</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>Romania</b></td>
 		<td align = "center">❌</td>
 	</tr>
 	<tr>
-		<td><b>Bild</b></td>
-		<td align = "center">PI131</td>
+		<td><b>United States</b></td>
+		<td align = "center">✅</td>
+	</tr>
+	<tr>
+		<td><b>China</b></td>
+		<td align = "center">❌</td>
 	</tr>
 </table>
 </details>
