@@ -7,7 +7,7 @@
 <a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-обо-мне"><b>Обо мне</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#--навыки"><b>Навыки</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#-навыки"><b>Навыки</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-опыт-работы"><b>Опыт работы</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
