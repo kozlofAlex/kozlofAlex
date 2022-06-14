@@ -529,6 +529,8 @@
 <details> <summary>Применение техник тест-дизайна</summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br></details>
+<img width ="500" height = "400" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />	
+	
 </details>
 </div>
 
