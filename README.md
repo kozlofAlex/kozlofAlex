@@ -529,7 +529,7 @@
 <details> <summary>Применение техник тест-дизайна</summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br></details>
-<img width ="500" height = "400" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />	
+<img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />	
 	
 </details>
 </div>
