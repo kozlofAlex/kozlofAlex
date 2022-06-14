@@ -649,44 +649,44 @@
 </details>
 <details> <summary>2. Теория тестирования <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
   <ol>
-	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Основные понятия</li></a>
-  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Обязанности тестировщика</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Принципы тестирования</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Отличия QA и QC и Testing</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Верификация и валидация</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Уровни тестирования</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Жизненный цикл тестирования (STLC</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Жизненный цикл ПО (SDLC)</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Модели разработки ПО</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>SCRUM</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Требования и их анализ</li></a>
-  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Отчёт о дефекте</li></a>
-  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Severity vs Priority</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Основные виды тестирования ПО</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Техники тест-дизайна</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Тестовая документация</li></a>
-   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Метрики тестирования</li></a>
+	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Основные понятия</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Обязанности тестировщика</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Принципы тестирования</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Отличия QA и QC и Testing</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Верификация и валидация</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Уровни тестирования</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Жизненный цикл тестирования (STLC</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Жизненный цикл ПО (SDLC)</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Модели разработки ПО</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>SCRUM</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Требования и их анализ</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Отчёт о дефекте</li></a>
+  	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Severity vs Priority</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Основные виды тестирования ПО</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Техники тест-дизайна</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Тестовая документация</li></a>
+   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Метрики тестирования</li></a>
    </ol>
 </details>
 <details> <summary>3. Тестирование web приложений и API<sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
    <ol>
-	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Клиент-серверная архитектура</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>HTTP- протокол, структура запроса и ответа</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>API</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Что происходит при отправке запроса на сервер</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>HTTP - методы</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Коды ответов HTTP-сервера</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Работа с сетями</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Кэш, куки, веб-сокет</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>HTML, CSS, JS</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Работа с DevTools</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Особенности (и отличия) REST и SOAP</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li> Анализаторы траффика Charles Proxy/Fiddler</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Знание Postman, SoapUI</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Идентификация, аутентификация, авторизация</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Виды авторизация</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Тестирование веб форм и веб элементов</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Анализ логов (Kibana, Elasticsearch)</li></a>
+	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Клиент-серверная архитектура</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTTP- протокол, структура запроса и ответа</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>API</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Что происходит при отправке запроса на сервер</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTTP - методы</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Коды ответов HTTP-сервера</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Работа с сетями</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Кэш, куки, веб-сокет</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTML, CSS, JS</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Работа с DevTools</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Особенности (и отличия) REST и SOAP</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li> Анализаторы траффика Charles Proxy/Fiddler</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Знание Postman, SoapUI</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Идентификация, аутентификация, авторизация</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Виды авторизация</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Тестирование веб форм и веб элементов</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Анализ логов (Kibana, Elasticsearch)</li></a>
    </ol>
 </details>
 
