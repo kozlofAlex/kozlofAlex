@@ -530,6 +530,7 @@
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br>
 <img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />
+<b>Всего комбинаций: 2*2*3*2= 24</b> 
 <table>
 	<tr>
 		<th  width="200"></th>
@@ -539,6 +540,9 @@
 		<th>ТС3</th>
 		<th>ТС4</th>
 		<th>...</th>
+		<th>ТС22</th>
+		<th>ТС23</th>
+		<th>ТС24</th>
 	</tr>
 	<tr>
 		<td>Лицензия</td>
@@ -548,17 +552,35 @@
 		<td>есть</td>
 		<td>есть</td>
 		<td>...</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>нет</td>
 	</tr
 	<tr>
-		<td>База данных</td>
+		<td>База данных на</td>
 		<td>SQLite/SQL</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>...</td>
+		<td>SQL</td>
+		<td>SQL</td>
+		<td>SQL</td>
 	</tr>
 	<tr>
+	<tr>
+		<td>Рабочих мест</td>
+		<td>1/2/3</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>1</td>
+		<td>...</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+	</tr>
 		<td>Автосервис</td>
 		<td>да/нет</td>
 		<td>да</td>
@@ -566,15 +588,9 @@
 		<td>да</td>
 		<td>да</td>
 		<td>...</td>
-	</tr>
-	<tr>
-		<td>Количество мест</td>
-		<td>1/2/3</td>
-		<td>1</td>
-		<td>2</td>
-		<td>3</td>
-		<td>1</td>
-		<td>...</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>нет</td>
 	</tr>
 </table>
 </details>
