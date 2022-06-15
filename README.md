@@ -602,6 +602,20 @@
 		<td>SQL</td>
 	</tr>
 	<tr>
+		<td><b>Автосервис</b></td>
+		<td><b>да/нет</b></td>
+		<td>да</td>
+		<td>да</td>
+		<td>да</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>...</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>нет</td>
+	</tr>
+	<tr>
 		<td><b>Рабочих мест</b></td>
 		<td><b>1/2/3</b></td>
 		<td>1</td>
@@ -614,20 +628,6 @@
 		<td>1</td>
 		<td>2</td>
 		<td>3</td>
-	</tr>
-	<tr>
-		<td><b>Автосервис</b></td>
-		<td><b>да/нет</b></td>
-		<td>да</td>
-		<td>да</td>
-		<td>да</td>
-		<td>да</td>
-		<td>нет</td>
-		<td>нет</td>
-		<td>...</td>
-		<td>нет</td>
-		<td>нет</td>
-		<td>нет</td>
 	</tr>
 </table>
 <img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /></br>
