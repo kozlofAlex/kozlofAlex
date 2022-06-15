@@ -603,7 +603,8 @@
 		<td>нет</td>
 	</tr>
 </table>
-<img height = "100" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" />
+<img height = "100" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /></br>
+<b>Всего комбинаций: = 8</b> </br> </br>
 <table>
 	<tr>
 		<th  width="200"></th>
