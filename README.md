@@ -207,7 +207,6 @@
 </details>
 <details> <summary>✅ Чек-листы</summary></br>
 <div align="center">
-<details> <summary>Пример #1</summary></br>
 <table>
 	<tr>
 		<th>Поле</th>
@@ -288,66 +287,6 @@
 		<td align = "center">✅</td>
 	</tr>
 </table>	
-</details>
-<details> <summary>Пример #2</summary></br>
-<table>
-	<tr>
-		<th>Поле</th>
-		<th>Значение</th>
-	</tr>
-	<tr>
-		<td><b>Автор</b></td>
-		<td>Козлов А.В.</td>
-	</tr>
-	<tr>
-		<td><b>Дата</b></td>
-		<td>2022/01/01</td>
-	</tr>
-	<tr>
-		<td><b>Окружение</b></td>
-		<td>Windows 10 Pro, bild 19044.1741 </br> Google Chrome, bild 102.0.5005.63</td>
-	</tr>
-	<tr>
-		<td><b>Bild</b></td>
-		<td>1.3456</td>
-	</tr>
-	<tr>
-		<td colspan= "2" align = "center"><b>Проверка локализованных версий сайта</b></td>
-	</tr>
-	<tr>
-		<td><b>Россия</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>Беларусь</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>Казахстан</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>Украина</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>Europe</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>Romania</b></td>
-		<td align = "center">❌</td>
-	</tr>
-	<tr>
-		<td><b>United States</b></td>
-		<td align = "center">✅</td>
-	</tr>
-	<tr>
-		<td><b>China</b></td>
-		<td align = "center">❌</td>
-	</tr>
-</table>
-</details>
 </div>
 </details>
 
