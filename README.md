@@ -529,8 +529,8 @@
 <details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br>
-<b>Всего комбинаций: 2*2*3*2 = 24</b> <hr> </br> 
-<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
+<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> 
+<b>Всего комбинаций: 2*2*3*2 = 24</b> </br> 
 <table>
 	<tr>
 		<th  width="200"></th>
