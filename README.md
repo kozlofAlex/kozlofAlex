@@ -701,7 +701,15 @@
 <img  width ="500" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/reg.png" /></br> </br> 
 <table>
 	<tr>
-		<th colspan="9"></th>
+		<th>Условия</th>
+		<th>Правило 1</th>
+		<th>Правило 2</th>
+		<th>Правило 3</th>
+		<th>Правило 4</th>
+		<th>Правило 5</th>
+		<th>Правило 6</th>
+		<th>Правило 7</th>
+		<th>Правило 8</th>
 	</tr>
 	<tr>
 		<td><b>Логин</b></td>
@@ -717,13 +725,27 @@
 	<tr>
 		<td><b>Пароль</b></td>
 		<td>+</td>
-		<td>-</td>
-		<td>+</td>
 		<td>+</td>
 		<td>-</td>
+		<td>+</td>
 		<td>-</td>
 		<td>-</td>
 		<td>+</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td><b>CAPTCHA</b></td>
+		<td>+</td>
+		<td>+</td>
+		<td>+</td>
+		<td>-</td>
+		<td>-</td>
+		<td>+</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="9"><b>Действия</b></td>
 	</tr>
 </table>
 </details>
