@@ -531,6 +531,33 @@
 <details> <summary>Попарное тестирование</summary></br>
 <p>Суть этого метода, в том, что каждое значение каждого проверяемого параметра должно быть протестировано на взаимодействие с каждым значением всех остальных параметров</p>
 <img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> 
+<table>
+	<tr>
+		<th>Рабочих мест</th>
+		<th>Лицензия</th>
+		<th>База данных на</th>
+		<th>Автосервис</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>есть</td>
+		<td>SQLite</td>
+		<td>да</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>нет</td>
+		<td>SQL</td>
+		<td>нет</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+	
 <b>Всего комбинаций: 2*2*3*2 = 24</b> </br> </br> 
 <table>
 	<tr>
