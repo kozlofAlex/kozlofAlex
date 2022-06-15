@@ -533,27 +533,27 @@
 <img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
 <table>
 	<tr>
-		<th>Рабочих мест</th>
 		<th>Лицензия</th>
 		<th>База данных на</th>
+		<th>Рабочих мест</th>
 		<th>Автосервис</th>
 	</tr>
 	<tr>
-		<td>1</td>
 		<td>есть</td>
 		<td>SQLite</td>
+		<td>1</td>
 		<td>да</td>
 	</tr>
 	<tr>
-		<td>2</td>
 		<td>нет</td>
 		<td>SQL</td>
+		<td>2</td>
 		<td>нет</td>
 	</tr>
 	<tr>
+		<td></td>
+		<td></td>
 		<td>3</td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 </table></br>
