@@ -529,8 +529,13 @@
 <details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br>
-<img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />	
-	
+<img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />
+<table>
+	<tr>
+		<th  >Период</th>
+		<th>Место работы</th>
+	</tr>
+</table>
 </details>
 </details>
 </div>
@@ -540,8 +545,15 @@
 <details open> <summary>Experience</summary></br>
 <table>
 	<tr>
-		<th  width="200">Период</th>
-		<th>Место работы</th>
+		<th  width="200"></th>
+		<th>Варианты
+![image](https://user-images.githubusercontent.com/107295846/173746837-e17a8a26-8039-4177-8b15-aa727591e0d4.png)
+</th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
 	</tr>
 	<tr>
 		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
