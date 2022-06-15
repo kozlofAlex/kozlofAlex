@@ -528,25 +528,29 @@
 </details>
 <details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
-<details> <summary>Попарное тестирование</summary><br>
+<details> <summary>Попарное тестирование</summary></br>
 <img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> 
-<b>Всего комбинаций: 2*2*3*2 = 24</b> </br> 
+<b>Всего комбинаций: 2*2*3*2 = 24</b> </br> </br> 
 <table>
 	<tr>
 		<th  width="200"></th>
 		<th>Варианты</th>
-		<th>ТС1</th>
-		<th>ТС2</th>
-		<th>ТС3</th>
-		<th>ТС4</th>
+		<th width ="90">ТС1</th>
+		<th width ="90">ТС2</th>
+		<th width ="90">ТС3</th>
+		<th width ="90">ТС4</th>
+		<th width ="90">ТС5</th>
+		<t width ="90"h>ТС6</th>
 		<th>...</th>
-		<th>ТС22</th>
-		<th>ТС23</th>
-		<th>ТС24</th>
+		<th width ="90">ТС22</th>
+		<th width ="90">ТС23</th>
+		<th width ="90">ТС24</th>
 	</tr>
 	<tr>
 		<td>Лицензия</td>
 		<td>нет/уже есть</td>
+		<td>уже есть</td>
+		<td>уже есть</td>
 		<td>уже есть</td>
 		<td>уже есть</td>
 		<td>уже есть</td>
@@ -559,6 +563,8 @@
 	<tr>
 		<td>База данных на</td>
 		<td>SQLite/SQL</td>
+		<td>SQLite</td>
+		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
@@ -576,6 +582,8 @@
 		<td>2</td>
 		<td>3</td>
 		<td>1</td>
+		<td>2</td>
+		<td>3</td>
 		<td>...</td>
 		<td>1</td>
 		<td>2</td>
@@ -587,6 +595,8 @@
 		<td>да</td>
 		<td>да</td>
 		<td>да</td>
+		<td>нет</td>
+		<td>нет</td>
 		<td>...</td>
 		<td>нет</td>
 		<td>нет</td>
@@ -598,14 +608,14 @@
 	<tr>
 		<th  width="200"></th>
 		<th>Варианты</th>
-		<th>ТС1</th>
-		<th>ТС2</th>
-		<th>ТС3</th>
-		<th>ТС4</th>
-		<th>ТС5</th>
-		<th>ТС6</th>
-		<th>ТС7</th>
-		<th>ТС8</th>
+		<th width ="90">ТС1</th>
+		<th width ="90">ТС2</th>
+		<th width ="90">ТС3</th>
+		<th width ="90">ТС4</th>
+		<th width ="90">ТС5</th>
+		<th width ="90">ТС6</th>
+		<th width ="90">ТС7</th>
+		<th width ="90">ТС8</th>
 	</tr>
 	<tr>
 		<td>Рабочих мест</td>
