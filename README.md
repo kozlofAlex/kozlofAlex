@@ -697,7 +697,7 @@
 </details>
 
 <details> <summary>Матрица принятия решений</summary></br>
-<p><b>Таблицы принятия решений (Decision Table Testing)</b> — показывает возможные комбинации входных данных и ожидаемых результатов.</p>
+<p><b>Матрица принятия решений (Decision Table Testing)</b> — показывает возможные комбинации входных данных и ожидаемых результатов.</p>
 <img  width ="700" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/reg.png" /></br> </br> 
 <table>
 	<tr>
