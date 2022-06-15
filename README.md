@@ -669,6 +669,40 @@
 	</tr>
 </table>
 </details>
+
+<details> <summary>Матрица принятия решений</summary></br>
+<p><b>Таблицы принятия решений (Decision Table Testing)</b> — показывает возможные комбинации входных данных и ожидаемых результатов./p>
+<table>
+	<tr>
+		<th width="200"></th>
+		<th>Варианты</th>
+		<th>ТС1</th>
+		<th>ТС2</th>
+		<th>ТС3</th>
+		<th>ТС4</th>
+		<th>ТС5</th>
+		<th>ТС6</th>
+		<th>...</th>
+		<th>ТС22</th>
+		<th>ТС23</th>
+		<th>ТС24</th>
+	</tr>
+	<tr>
+		<td><b>Лицензия</b></td>
+		<td><b>нет/есть</b></td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>...</td>
+		<td>нет</td>
+		<td>нет</td>
+		<td>нет</td>
+	</tr
+</table>
+</details>
 </details>
 </div>
 
