@@ -575,7 +575,6 @@
 		<td>SQL</td>
 	</tr>
 	<tr>
-	<tr>
 		<td><b>Рабочих мест</b></td>
 		<td><b>1/2/3</b></td>
 		<td>1</td>
@@ -589,6 +588,7 @@
 		<td>2</td>
 		<td>3</td>
 	</tr>
+	<tr>
 		<td><b>Автосервис</b></td>
 		<td><b>да/нет</b></td>
 		<td>да</td>
@@ -603,7 +603,7 @@
 		<td>нет</td>
 	</tr>
 </table>
-<hr>
+<img height = "100" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
 <table>
 	<tr>
 		<th  width="200"></th>
@@ -647,8 +647,8 @@
 		<td>SQLite</td>
 		<td>SQL</td>
 		<td>SQLite</td>
-		<td>SQLite</td>
 		<td>SQL</td>
+		<td>SQLite</td>
 		<td>SQL</td>
 		<td>SQLite</td>
 		<td>SQL</td>
