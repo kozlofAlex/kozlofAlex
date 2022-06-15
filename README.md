@@ -603,7 +603,7 @@
 		<td>нет</td>
 	</tr>
 </table>
-<img height = "100" alt="Gmail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
+<img height = "100" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" />
 <table>
 	<tr>
 		<th  width="200"></th>
