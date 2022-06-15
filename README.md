@@ -698,7 +698,7 @@
 
 <details> <summary>Матрица принятия решений</summary></br>
 <p><b>Таблицы принятия решений (Decision Table Testing)</b> — показывает возможные комбинации входных данных и ожидаемых результатов.</p>
-<img  width ="500" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/reg.png" /></br> </br> 
+<img  width ="700" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/reg.png" /></br> </br> 
 <table>
 	<tr>
 		<th></th>
@@ -712,7 +712,7 @@
 		<th>Правило 8</th>
 	</tr>
 	<tr>
-		<td colspan="9"><b>Условия</b></td>
+		<td colspan="9" align="center"><b>Условия</b></td>
 	</tr>
 	<tr>
 		<td><b>Логин</b></td>
@@ -748,18 +748,18 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td colspan="9"><b>Действия</b></td>
+		<td colspan="9" align="center"><b>Действия</b></td>
 	</tr>
 	<tr>
 		<td><b>Успешная регистрация</b></td>
 		<td>+</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><b>Логин должен быть не менее 3 символов</b></td>
