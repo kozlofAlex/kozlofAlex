@@ -533,7 +533,7 @@
 <b>Всего комбинаций: 2*2*3*2 = 24</b> </br> </br> 
 <table>
 	<tr>
-		<th  width="200"></th>
+		<th width="200"></th>
 		<th>Варианты</th>
 		<th width ="90">ТС1</th>
 		<th width ="90">ТС2</th>
@@ -547,8 +547,8 @@
 		<th width ="90">ТС24</th>
 	</tr>
 	<tr>
-		<td>Лицензия</td>
-		<td>нет/есть</td>
+		<td><b>Лицензия</b></td>
+		<td><b>нет/есть</b></td>
 		<td>есть</td>
 		<td>есть</td>
 		<td>есть</td>
@@ -561,8 +561,8 @@
 		<td>нет</td>
 	</tr
 	<tr>
-		<td>База данных на</td>
-		<td>SQLite/SQL</td>
+		<td><b>База данных на</b></td>
+		<td><b>SQLite/SQL</b></td>
 		<td>SQLite</td>
 		<td>SQLite</td>
 		<td>SQLite</td>
@@ -576,8 +576,8 @@
 	</tr>
 	<tr>
 	<tr>
-		<td>Рабочих мест</td>
-		<td>1/2/3</td>
+		<td><b>Рабочих мест</b></td>
+		<td><b>1/2/3</b></td>
 		<td>1</td>
 		<td>2</td>
 		<td>3</td>
@@ -589,8 +589,8 @@
 		<td>2</td>
 		<td>3</td>
 	</tr>
-		<td>Автосервис</td>
-		<td>да/нет</td>
+		<td><b>Автосервис</b></td>
+		<td><b>да/нет</b></td>
 		<td>да</td>
 		<td>да</td>
 		<td>да</td>
@@ -618,8 +618,8 @@
 		<th width ="90">ТС8</th>
 	</tr>
 	<tr>
-		<td>Рабочих мест</td>
-		<td>1/2/3</td>
+		<td><b>Рабочих мест</b></td>
+		<td><b>1/2/3</b></td>
 		<td>1</td>
 		<td>1</td>
 		<td>2</td>
@@ -630,8 +630,8 @@
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>Лицензия</td>
-		<td>нет/уже есть</td>
+		<td><b>Лицензия</b></td>
+		<td><b>нет/есть</b></td>
 		<td>есть</td>
 		<td>нет</td>
 		<td>есть</td>
@@ -642,8 +642,8 @@
 		<td>нет</td>
 	</tr
 	<tr>
-		<td>База данных на</td>
-		<td>SQLite/SQL</td>
+		<td><b>База данных на</b></td>
+		<td><b>SQLite/SQL</b></td>
 		<td>SQLite</td>
 		<td>SQL</td>
 		<td>SQLite</td>
@@ -654,8 +654,8 @@
 		<td>SQL</td>
 	</tr>
 	<tr>
-		<td>Автосервис</td>
-		<td>да/нет</td>
+		<td><b>Автосервис</b></td>
+		<td><b>да/нет</b></td>
 		<td>да</td>
 		<td>нет</td>
 		<td>нет</td>
