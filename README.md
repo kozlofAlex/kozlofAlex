@@ -703,10 +703,8 @@
 	</tr
 </table>
 </details>
-</details>
-</details>
 </div>
-
+</details>
 
 ### :office: Опыт работы
 <details open> <summary>Experience</summary></br>
