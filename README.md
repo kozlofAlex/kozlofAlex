@@ -530,7 +530,7 @@
 <div align="center">
 <details> <summary>Попарное тестирование</summary></br>
 <p>Суть этого метода, в том, что каждое значение каждого проверяемого параметра должно быть протестировано на взаимодействие с каждым значением всех остальных параметров</p>
-<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> 
+<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
 <table>
 	<tr>
 		<th>Рабочих мест</th>
@@ -556,8 +556,7 @@
 		<td></td>
 		<td></td>
 	</tr>
-</table>
-	
+</table></br>
 <b>Всего комбинаций: 2*2*3*2 = 24</b> </br> </br> 
 <table>
 	<tr>
