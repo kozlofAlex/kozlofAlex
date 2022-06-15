@@ -529,8 +529,8 @@
 <details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br>
-<b>Всего комбинаций: 2*2*3*2 = 24</b> </br> 
-<img align ="right" width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
+<b>Всего комбинаций: 2*2*3*2 = 24</b> <hr> </br> 
+<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
 <table>
 	<tr>
 		<th  width="200"></th>
@@ -593,20 +593,8 @@
 		<td>нет</td>
 	</tr>
 </table>
-
+<hr>
 <table>
-	<tr>
-		<td>Рабочих мест</td>
-		<td>1/2/3</td>
-		<td>1</td>
-		<td>1</td>
-		<td>2</td>
-		<td>2</td>
-		<td>2</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
 	<tr>
 		<th  width="200"></th>
 		<th>Варианты</th>
@@ -618,6 +606,18 @@
 		<th>ТС6</th>
 		<th>ТС7</th>
 		<th>ТС8</th>
+	</tr>
+	<tr>
+		<td>Рабочих мест</td>
+		<td>1/2/3</td>
+		<td>1</td>
+		<td>1</td>
+		<td>2</td>
+		<td>2</td>
+		<td>2</td>
+		<td>3</td>
+		<td>3</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>Лицензия</td>
