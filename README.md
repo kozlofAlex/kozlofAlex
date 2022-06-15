@@ -122,7 +122,7 @@
 	<tr>
 		<th>positive</th>
 		<th>name, fam</th>
-		<th>e-mail</th>
+		<th>email</th>
 		<th>file</th>
 		<th>size</th>
 	</tr>
