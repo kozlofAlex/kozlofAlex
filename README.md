@@ -530,7 +530,7 @@
 <div align="center">
 <details> <summary>Попарное тестирование</summary></br>
 <p>Суть метода <b>попарного тестирования</b>, в том, что каждое значение каждого проверяемого параметра должно быть протестировано на взаимодействие с каждым значением всех остальных параметров</p>
-<img  width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
+<img  width ="500" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" /></br> </br> 
 <table>
 	<tr>
 		<th>Лицензия</th>
@@ -630,7 +630,7 @@
 		<td>3</td>
 	</tr>
 </table>
-Попарное <img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /> тестирование</br>
+<img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /> </br>
 <b>Всего комбинаций = 8</b> </br> </br>
 <table>
 	<tr>
@@ -698,34 +698,32 @@
 
 <details> <summary>Матрица принятия решений</summary></br>
 <p><b>Таблицы принятия решений (Decision Table Testing)</b> — показывает возможные комбинации входных данных и ожидаемых результатов.</p>
+<img  width ="500" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/reg.png" /></br> </br> 
 <table>
 	<tr>
-		<th width="200"></th>
-		<th>Варианты</th>
-		<th>ТС1</th>
-		<th>ТС2</th>
-		<th>ТС3</th>
-		<th>ТС4</th>
-		<th>ТС5</th>
-		<th>ТС6</th>
-		<th>...</th>
-		<th>ТС22</th>
-		<th>ТС23</th>
-		<th>ТС24</th>
+		<th colspan="9"></th>
 	</tr>
 	<tr>
-		<td><b>Лицензия</b></td>
-		<td><b>нет/есть</b></td>
-		<td>есть</td>
-		<td>есть</td>
-		<td>есть</td>
-		<td>есть</td>
-		<td>есть</td>
-		<td>есть</td>
-		<td>...</td>
-		<td>нет</td>
-		<td>нет</td>
-		<td>нет</td>
+		<td><b>Логин</b></td>
+		<td>+</td>
+		<td>-</td>
+		<td>+</td>
+		<td>+</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>+</td>
+	</tr>
+	<tr>
+		<td><b>Пароль</b></td>
+		<td>+</td>
+		<td>-</td>
+		<td>+</td>
+		<td>+</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>+</td>
 	</tr>
 </table>
 </details>
