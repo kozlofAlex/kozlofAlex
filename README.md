@@ -630,7 +630,7 @@
 		<td>3</td>
 	</tr>
 </table>
-<img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /></br>
+Попарное <img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /> тестирование</br>
 <b>Всего комбинаций = 8</b> </br> </br>
 <table>
 	<tr>
