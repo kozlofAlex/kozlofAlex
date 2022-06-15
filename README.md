@@ -529,7 +529,7 @@
 <details> <summary><b>📓 Применение техник тест-дизайна</b></summary><br>
 <div align="center">
 <details> <summary>Попарное тестирование</summary><br>
-<big>Всего комбинаций: 2*2*3*2= 24</big> </br> 
+<p stype="font-size:20px">Всего комбинаций: 2*2*3*2= 24</p> </br> 
 <img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />
 <table>
 	<tr>
