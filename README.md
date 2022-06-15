@@ -560,7 +560,7 @@
 		<td>нет</td>
 		<td>нет</td>
 		<td>нет</td>
-	</tr
+	</tr>
 	<tr>
 		<td><b>База данных на</b></td>
 		<td><b>SQLite/SQL</b></td>
@@ -604,7 +604,7 @@
 		<td>нет</td>
 	</tr>
 </table>
-<img height = "100" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /></br>
+<img height = "100" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/down.svg" /></br>
 <b>Всего комбинаций = 8</b> </br> </br>
 <table>
 	<tr>
@@ -642,7 +642,7 @@
 		<td>есть</td>
 		<td>есть</td>
 		<td>нет</td>
-	</tr
+	</tr>
 	<tr>
 		<td><b>База данных на</b></td>
 		<td><b>SQLite/SQL</b></td>
@@ -700,7 +700,7 @@
 		<td>нет</td>
 		<td>нет</td>
 		<td>нет</td>
-	</tr
+	</tr>
 </table>
 </details>
 </div>
