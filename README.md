@@ -532,8 +532,49 @@
 <img width ="500" alt="Gmail" src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Pairwise%20testing.png" />
 <table>
 	<tr>
-		<th  >Период</th>
-		<th>Место работы</th>
+		<th  width="200"></th>
+		<th>Варианты</th>
+		<th>ТС1</th>
+		<th>ТС2</th>
+		<th>ТС3</th>
+		<th>ТС4</th>
+		<th>...</th>
+	</tr>
+	<tr>
+		<td>Лицензия</td>
+		<td>нет/уже есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>есть</td>
+		<td>...</td>
+	</tr
+	<tr>
+		<td>База данных</td>
+		<td>SQLite/SQL</td>
+		<td>SQLite</td>
+		<td>SQLite</td>
+		<td>SQLite</td>
+		<td>SQLite</td>
+		<td>...</td>
+	</tr>
+	<tr>
+		<td>Автосервис</td>
+		<td>да/нет</td>
+		<td>да</td>
+		<td>да</td>
+		<td>да</td>
+		<td>да</td>
+		<td>...</td>
+	</tr>
+	<tr>
+		<td>Количество мест</td>
+		<td>1/2/3</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>1</td>
+		<td>...</td>
 	</tr>
 </table>
 </details>
@@ -545,15 +586,8 @@
 <details open> <summary>Experience</summary></br>
 <table>
 	<tr>
-		<th  width="200"></th>
-		<th>Варианты
-![image](https://user-images.githubusercontent.com/107295846/173746837-e17a8a26-8039-4177-8b15-aa727591e0d4.png)
-</th>
-		<th></th>
-		<th></th>
-		<th></th>
-		<th></th>
-		<th></th>
+		<th  width="200">Период</th>
+		<th>Место работы</th>
 	</tr>
 	<tr>
 		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
