@@ -920,7 +920,7 @@
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Кэш, куки, веб-сокет</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTML, CSS, JS</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Работа с DevTools</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Особенности (и отличия) REST и SOAP</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Веб-сервисы. Особенности (и отличия) REST и SOAP</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li> Анализаторы траффика Charles Proxy/Fiddler</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Знание Postman, SoapUI</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Идентификация, аутентификация, авторизация</li></a>
