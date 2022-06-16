@@ -768,7 +768,7 @@
 </details>
 
 ### :office: Опыт работы
-<details open> <summary>Experience</summary></br>
+<details open> <summary>Работа</summary></br>
 <table>
 	<tr>
 		<th  width="200">Период</th>
