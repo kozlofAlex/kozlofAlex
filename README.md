@@ -780,7 +780,7 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
-		  <img height = '50' width = '50' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '40' width = '40' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		  <img height = '40' width = '40' title= 'Jira' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		  <img height = '40' width = '40' title= 'Confluence' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
