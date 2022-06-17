@@ -779,7 +779,7 @@
 		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
-		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
 		  <img height = '40' width = '40' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		  <img height = '40' width = '40' title= 'Jira' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		  <img height = '40' width = '40' title= 'Confluence' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -791,7 +791,7 @@
 		<b>Главный специалист Группы информационных технологий</b></br> 
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
-		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
 <img height = '40' width = '40'' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;
@@ -804,7 +804,7 @@
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
-		Контент-менеджмент сайта министерства соцразвития</br>
+		Контент-менеджмент сайта министерства соцразвития</br></br>
 <img height = '40' width = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
@@ -815,7 +815,7 @@
 		<td>Декабрь 2014 — </br>Декабрь 2015</br><i>1 год 1 месяц</i></td>
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
-		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br>
+		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
 <img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
@@ -836,7 +836,7 @@
 		<td><p>Вятский государственный гуманитарный университет</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
-                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br>   
+                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
 <img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' width = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
