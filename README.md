@@ -788,10 +788,10 @@
 	<tr>
 		<td>Май 2019 — </br>Август 2021</br><i>2 года 4 месяца</i></td>
 		<td><b>«СОГАЗ-Мед»</b></br>
-		<b>Главный специалист Группы информационных технологий</b></br></br>  
+		<b>Главный специалист Группы информационных технологий</b></br> 
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
-		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br></br> 
 <img height = '50' width = '50'' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -800,11 +800,11 @@
 	<tr>
 		<td>Январь 2016 — </br>Апрель 2019 </br><i>3 года 4 месяца</i></td>
 		<td><b>«Информационно-аналитический центр»</b></br>
-		<b>Главный специалист отдела информационных технологий</b></br></br>  
+		<b>Главный специалист отдела информационных технологий</b></br>
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
-		Контент-менеджмент сайта министерства соцразвития</br>
+		Контент-менеджмент сайта министерства соцразвития</br></br> 
 <img height = '50' width = '50' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;&nbsp;
