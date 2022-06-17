@@ -6,15 +6,15 @@
 <a href="https://tlgg.ru/Alex_Kozlov_91" target="_blank"><img width ="40" height = "40" alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://vk.com/id122275910" target="_blank"><img width ="40" height = "40" alt="VK" src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" /></a>&nbsp;&nbsp;&nbsp;
 </br></br></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#microphone-обо-мне"><b>Обо мне</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#-навыки"><b>Навыки</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#обо-мне"><b>Обо мне</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#навыки"><b>Навыки</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-опыт-работы"><b>Опыт работы</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-план-развития"><b>План развития</b></a></br>
 </br></br></br>  
 
-### :microphone: Обо мне
+### Обо мне
 Работаю IT-специалистом **более 6 лет**, имею хороший технический бэкграунд, знаю теорию тестирования, постоянно изучаю новые методы тестирования и применяю их 
 на практике.  
 1. ⚙️ **Навыки тестирования:**  
@@ -39,7 +39,7 @@
     - Увлекаюсь тяжелой атлетикой 💪  
     - Фильмы и сериалы 🎞️  
 
-### 🛠 Навыки  
+### Навыки  
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -54,8 +54,8 @@
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
  
-### :pencil: Примеры тестовой документации
-<details><summary>✳️ Тест-кейсы</summary></br>
+### Примеры тестовой документации
+<details><summary>:pencil: Тест-кейсы</summary></br>
 <div align="center">
 <details> <summary>Пример #1</summary></br>
 <table>
@@ -768,8 +768,8 @@
 </div>
 </details>
 
-### :office: Опыт работы
-<details open> <summary>Работа</summary></br>
+### Опыт работы
+<details open> <summary> :bank: Работа</summary></br>
 <table>
 	<tr>
 		<th  width="200">Период</th>
@@ -828,7 +828,7 @@
 </table>
 </details>
 
-<details open> <summary>Образование</summary></br>
+<details open><summary> :mortar_board: Образование</summary></br>
 <table>
 	<tr>
 		<th width="200">Период</th>
@@ -849,7 +849,7 @@
 </table>
 </details>
 
-### :mortar_board: Знания в тестировании
+### Знания в тестировании
 <details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-25%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
    <table>
   <thead align="center">
@@ -954,7 +954,7 @@
    </ol>
 </details>    
 
-### :mag_right: План развития  
+### План развития  
  <details> <summary>1. Тестирование десктопных приложений</summary><br></details>
  <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>3. Автоматизация тестирования</summary><br></details>
