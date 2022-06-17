@@ -53,12 +53,6 @@
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
  
-<p> 
-<img height = "40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height = "40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img height = "40" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-<img height = "40" src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white" />
-</p> 
 ### :pencil: Примеры тестовой документации
 <details><summary>✳️ Тест-кейсы</summary></br>
 <div align="center">
