@@ -814,8 +814,8 @@
 	<tr>
 		<td>Декабрь 2014 — </br>Декабрь 2015</br><i>1 год 1 месяц</i></td>
 		<td><b>«Реабилитационный центр»</b></br>
-		<b>Программист</b></br></br>  
-		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
+		<b>Программист</b></br>
+		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>  
 <img height = '50' width = '50' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
