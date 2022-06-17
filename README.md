@@ -8,10 +8,10 @@
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#обо-мне"><b>Обо мне</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#навыки"><b>Навыки</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#pencil-примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#office-опыт-работы"><b>Опыт работы</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mortar_board-знания-в-тестировании"><b>Знания в тестировании</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#mag_right-план-развития"><b>План развития</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#опыт-работы"><b>Опыт работы</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#знания-в-тестировании"><b>Знания в тестировании</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#план-развития"><b>План развития</b></a></br>
 </br></br></br>  
 
 ### Обо мне
