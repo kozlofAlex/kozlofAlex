@@ -808,9 +808,9 @@
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.</br>
 		Контент-менеджмент сайта министерства соцразвития</br></br>
 <img height = '45' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
-<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
-<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
-<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -818,10 +818,10 @@
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
-<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
-<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
-<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' title= 'Wordpress' src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 </table>
@@ -839,11 +839,11 @@
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
-<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
-<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
-<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;
+<img height = '35' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;
    		 </td>
 	</tr>
 </table>
