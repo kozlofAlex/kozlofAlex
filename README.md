@@ -779,50 +779,47 @@
 		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
-		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>     
-	          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-		  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-		  <img src="https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white">
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
+		  <img height = '50' width = '50' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '50' width = '50' title= 'Jira' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '50' width = '50' title= 'Confluence' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
 		<td>Май 2019 — </br>Август 2021</br><i>2 года 4 месяца</i></td>
 		<td><b>«СОГАЗ-Мед»</b></br>
-		<b>Главный специалист Группы информационных технологий</b></br>
+		<b>Главный специалист Группы информационных технологий</b></br></br>  
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
-		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
-                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-		  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
+<img height = '50' width = '50'' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
 		<td>Январь 2016 — </br>Апрель 2019 </br><i>3 года 4 месяца</i></td>
 		<td><b>«Информационно-аналитический центр»</b></br>
-		<b>Главный специалист отдела информационных технологий</b></br>
+		<b>Главный специалист отдела информационных технологий</b></br></br>  
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
 		Контент-менеджмент сайта министерства соцразвития</br>
-                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-		  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img height = '50' width = '50' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
 		<td>Декабрь 2014 — </br>Декабрь 2015</br><i>1 год 1 месяц</i></td>
 		<td><b>«Реабилитационный центр»</b></br>
-		<b>Программист</b></br>
+		<b>Программист</b></br></br>  
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br> 
-                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-		  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">	
-		  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white">	
+<img height = '50' width = '50' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Wordpress' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/wordpress.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 </table>
@@ -839,11 +836,12 @@
 		<td><p>Вятский государственный гуманитарный университет</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
-                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br>  
-                  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-	          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">	
+                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>    
+<img height = '50' width = '50' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img height = '50' width = '50' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;&nbsp;
    		 </td>
 	</tr>
 </table>
