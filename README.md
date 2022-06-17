@@ -781,9 +781,10 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
-		  <img height = '30' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height = '25' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-<img height = '25' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;
+<img height = '18'  width= '110' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img height = '20' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;&nbsp;
+<img height = '20' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
 		</td>
 	</tr>
 	<tr>
