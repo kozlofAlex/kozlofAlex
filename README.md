@@ -781,9 +781,9 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
-		  <img height = '40' width = '40' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-		  <img height = '40' width = '40' title= 'Jira' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-		  <img height = '40' width = '40' title= 'Confluence' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '40' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '40' title= 'Jira' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/jira.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+		  <img height = '40' title= 'Confluence' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/confluence.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -793,9 +793,9 @@
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
-<img height = '40' width = '40'' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -807,9 +807,9 @@
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
 		Контент-менеджмент сайта министерства соцразвития</br></br>
 <img height = '40' width = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -817,10 +817,10 @@
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
-<img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Wordpress' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/wordpress.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Wordpress' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/wordpress.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 </table>
@@ -838,11 +838,11 @@
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
-<img height = '40' width = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' width = '40' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;
    		 </td>
 	</tr>
 </table>
