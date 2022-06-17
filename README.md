@@ -791,7 +791,7 @@
 		<b>Главный специалист Группы информационных технологий</b></br> 
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
-		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br></br> 
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
 <img height = '50' width = '50'' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'DataGrip' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/datagrip.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img height = '50' width = '50' title= 'Microsoft Outlook' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoft-outlook.svg">&nbsp;&nbsp;&nbsp;&nbsp;
