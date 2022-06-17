@@ -806,7 +806,7 @@
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.
 		Контент-менеджмент сайта министерства соцразвития</br></br>
-<img height = '40' width = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
+<img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'HTML' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/html.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'CSS' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/css.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'Javascript' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/javascript.svg">&nbsp;&nbsp;&nbsp;
