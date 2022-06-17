@@ -782,7 +782,7 @@
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
 <img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;
-<img height = '17' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img height = '17' width='100' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;&nbsp;
 <img height = '20' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;&nbsp;
 <img height = '20' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
 		</td>
@@ -808,9 +808,9 @@
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.</br>
 		Контент-менеджмент сайта министерства соцразвития</br></br>
 <img height = '45' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;&nbsp;
-<img height = '40' title= 'HTML' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '31' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -818,9 +818,9 @@
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
-<img height = '40' title= 'HTML' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '31' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'Wordpress' src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">&nbsp;&nbsp;&nbsp;
 		</td>
 	</tr>
@@ -839,9 +839,9 @@
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
-<img height = '40' title= 'HTML' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">&nbsp;&nbsp;&nbsp;
-<img height = '31' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
+<img height = '45' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
+<img height = '39' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;&nbsp;
 <img height = '40' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;&nbsp;
    		 </td>
