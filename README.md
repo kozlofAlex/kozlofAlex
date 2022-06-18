@@ -40,20 +40,23 @@
     - Фильмы и сериалы 🎞️  
 
 ### Навыки  
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%232E87FB.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![HTML](https://img.shields.io/badge/-html-05122A?style=for-the-badge&logo=HTML5&logoColor=1572B6)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-yellow?style=for-the-badge&logo=power-bi&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
+<p>
+<img height = '35' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img height = '35' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
+<img height = '35' title= 'Jira' src="https://img.shields.io/badge/jira-FFFFFF.svg?style=for-the-badge&logo=jira&logoColor=0052CC">
+<img height = '35' title= 'Confluence' src="https://img.shields.io/badge/confluence-FFFFFF.svg?style=for-the-badge&logo=confluence&logoColor=0052CC">
+<img height = '35' title= 'Postman' src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=FF6C37">
+<img height = '35' title= 'HTML' src="https://img.shields.io/badge/-html-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=4169E1">
+<img height = '35' title= 'CSS' src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img height = '35' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height = '35' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=black">
+<img height = '35' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-FFFFFF.svg?style=for-the-badge&logo=datagrip&logoColor=black">
+<img height = '35' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-FFFFFF.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84">
+<img height = '35' title= 'Power BI' src="https://img.shields.io/badge/power_bi-FFFFFF?style=for-the-badge&logo=power-bi&logoColor=F2C811">
+<img height = '35' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=21759B">
+<img height = '35' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
+<img height = '35' title= 'Google Sheets' src="https://img.shields.io/badge/Google%20Sheets-FFFFFF?style=for-the-badge&logo=google-sheets&logoColor=34A853">
+</p>
    
 ### Примеры тестовой документации
 <details><summary>:pencil: Тест-кейсы</summary></br>
