@@ -784,10 +784,9 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
-<img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;
-<img height = '17' width='95' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;
-<img height = '20' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;
-<img height = '20' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
+<img height = '30' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-f6f8fa?style=for-the-badge&logo=postgresql&logoColor=316192">
+<img height = '30' title= 'Jira' src="https://img.shields.io/badge/jira-f6f8fa.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF">
+<img height = '30' title= 'Confluence' src="https://img.shields.io/badge/confluence-f6f8fa.svg?style=for-the-badge&logo=confluence&logoColor=0052cc">
 		</td>
 	</tr>
 	<tr>
@@ -814,7 +813,7 @@
 <img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
 <img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
 <img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
-<img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+<img height = '30' title= 'Javascript' src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
 		</td>
 	</tr>
 	<tr>
@@ -824,7 +823,7 @@
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
 <img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
 <img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
-<img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
+<img height = '30' title= 'Javascript' src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">&nbsp;&nbsp;
 <img height = '30' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg">
 		</td>
 	</tr>
@@ -848,7 +847,7 @@
 <img height = '30' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;
 <img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
 <img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
-<img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+<img height = '30' title= 'Javascript' src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
    		 </td>
 	</tr>
 </table>
