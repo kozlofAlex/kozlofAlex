@@ -822,7 +822,7 @@
 <img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
 <img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
 <img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
-<img height = '30' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg">
+<img height = '30' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg">
 		</td>
 	</tr>
 </table>
