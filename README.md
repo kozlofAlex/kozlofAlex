@@ -839,11 +839,12 @@
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
-<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;
-<img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
 <img height = '35' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;
-<img height = '35' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">
+<img height = '35' title= 'C++' src="https://cdn.worldvectorlogo.com/logos/c.svg">&nbsp;&nbsp;
+<img height = '35' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;
+<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
+<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
+<img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
    		 </td>
 	</tr>
 </table>
