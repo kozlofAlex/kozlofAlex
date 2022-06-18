@@ -964,7 +964,8 @@
  <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>3. Автоматизация тестирования</summary><br></details>
  <details> <summary>4. Английский язык</summary><br></details>
-</br>
+</br>  
+
 ![Просмотры](https://gpvc.arturio.dev/kozlofAlex)
 
 <div align="center">
