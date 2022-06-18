@@ -51,8 +51,8 @@
 <img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">	
 <img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img height = '30' title= 'Power BI' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">    
-<img height = '30' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white">
 <img height = '30' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img height = '30' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white">
 <img height = '30' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img height = '30' title= 'Git' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img height = '30' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -785,12 +785,10 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
-<div align ='center'>
 <img height = '30' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-f6f8fa?style=for-the-badge&logo=postgresql&logoColor=316192">&nbsp;
 <img height = '30' title= 'Jira' src="https://img.shields.io/badge/jira-f6f8fa.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF">&nbsp;
 <img height = '30' title= 'Confluence' src="https://img.shields.io/badge/confluence-f6f8fa.svg?style=for-the-badge&logo=confluence&logoColor=0052cc">&nbsp;
 <img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">
-	</div>
 		</td>
 	</tr>
 	<tr>
@@ -800,11 +798,9 @@
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
-<div align ='center'>
 <img height = '30' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-ffffff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
 <img height = '30' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-ffffff.svg?style=for-the-badge&logo=datagrip&logoColor=000000">&nbsp;
 <img height = '30' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
-	</div>	
 	</td>
 	</tr>
 	<tr>
@@ -815,12 +811,10 @@
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.</br>
 		Контент-менеджмент сайта министерства соцразвития</br>
-<div align ='center'>
 <img height = '30' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-f6f8fa?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
 <img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-f6f8fa?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
 <img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-f6f8fa?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
-<img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-f6f8fa.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">    
-	</div>	
+<img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-f6f8fa.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 	
 	</td>
 	</tr>
 	<tr>
@@ -828,12 +822,10 @@
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br>
-<div align ='center'>
 <img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
 <img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
 <img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
 <img height = '30' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-ffffff?style=for-the-badge&logo=wordpress&logoColor=21759B">
-	</div>	
 	</td>
 	</tr>
 </table>
@@ -851,14 +843,12 @@
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
                  Дипломная работа: <b>Разработка приложения для операционной системы Android</b></br>  
-<div align ='center'>
 <img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">&nbsp;
 <img height = '30' title= 'C++' src="https://img.shields.io/badge/C++-f6f8fa?style=for-the-badge&logo=cplusplus&logoColor=00599C">&nbsp; 
 <img height = '30' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-f6f8fa.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84">&nbsp; 
 <img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-f6f8fa?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
 <img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-f6f8fa?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
 <img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-f6f8fa.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
-   	</div>	 
 	</td>
 	</tr>
 </table>
