@@ -855,7 +855,7 @@
 </details>
 
 ### Знания в тестировании
-<details> <summary>1. Книги<sup><img src="https://img.shields.io/badge/Изучено-25%25-blue?style=plastic&logo&logoColor=white"></sup></summary></br>
+<details> <summary>1. Книги</summary></br>
    <table>
   <thead align="center">
     <tr border: none;>
@@ -893,7 +893,7 @@
   </tbody>
 </table>
 </details>
-<details> <summary>2. Теория тестирования <sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
+<details> <summary>2. Теория тестирования</summary>
   <ol>
 	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Основные понятия</li></a>
   	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Обязанности тестировщика</li></a>
@@ -914,7 +914,7 @@
    	 <a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/1.%20Testing%20theory.md" ><li>Метрики тестирования</li></a>
    </ol>
 </details>
-<details> <summary>3. Тестирование web приложений и API<sup><img src="https://img.shields.io/badge/Изучено-50%25-blue?style=plastic&logo&logoColor=white"></sup></summary>
+<details> <summary>3. Тестирование web приложений и API</summary>
    <ol>
 	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Клиент-серверная архитектура</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTTP- протокол, структура запроса и ответа</li></a>
@@ -936,7 +936,7 @@
    </ol>
 </details>
 
-<details> <summary>4. Дополнительные навыки<sup><img src="https://img.shields.io/badge/Изучено-40%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary> 
+<details> <summary>4. Дополнительные навыки</a></summary> 
     <ol>
 	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/3.%20Other%20skills.md" ><li>Работа с командной строкой (Windows, Linux), Bash</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/3.%20Other%20skills.md" ><li>Знание Jmeter (инструмент нагрузочного тестирования)</li></a>
@@ -949,7 +949,7 @@
    </ol>
 </details>
    
-<details> <summary>5. Базы данных<sup><img src="https://img.shields.io/badge/Изучено-80%25-blue?style=plastic&logo&logoColor=white"></sup></a></summary>
+<details> <summary>5. Базы данных</a></summary>
    <ol>
 	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/4.%20BD.md" ><li>Виды баз данных</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/4.%20BD.md" ><li>Нормальные формы</li></a>
