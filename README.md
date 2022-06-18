@@ -964,6 +964,9 @@
  <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>3. Автоматизация тестирования</summary><br></details>
  <details> <summary>4. Английский язык</summary><br></details>
+</br>
+
+![Profile views](https://gpvc.arturio.dev/kozlofAlex)
 
 <div align="center">
 <a href="https://vk.com/id122275910" target="_blank"><img alt="VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
