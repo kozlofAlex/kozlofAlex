@@ -784,11 +784,11 @@
 		<td>Сентябрь 2021 — </br>Ноябрь 2021 </br><i>3 месяца</i></td>
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
-		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br>
-<img height = '30' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-f6f8fa?style=for-the-badge&logo=postgresql&logoColor=316192">&nbsp;
-<img height = '30' title= 'Jira' src="https://img.shields.io/badge/jira-f6f8fa.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF">&nbsp;
-<img height = '30' title= 'Confluence' src="https://img.shields.io/badge/confluence-f6f8fa.svg?style=for-the-badge&logo=confluence&logoColor=0052cc">&nbsp;
-<img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">
+		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
+<img  height = '22' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-f6f8fa?style=flat-square&logo=postgresql&logoColor=316192">&nbsp;
+<img  height = '22' title= 'Jira' src="https://img.shields.io/badge/Jira-f6f8fa.svg?style=flat-square&logo=jira&logoColor=%230A0FFF">&nbsp;
+<img  height = '22' title= 'Confluence' src="https://img.shields.io/badge/Confluence-f6f8fa.svg?style=flat-square&logo=confluence&logoColor=0052cc">&nbsp;
+<img  height = '22' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=flat-square&logo=intellij-idea&logoColor=000000">
 		</td>
 	</tr>
 	<tr>
@@ -797,10 +797,10 @@
 		<b>Главный специалист Группы информационных технологий</b></br> 
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
-		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br>
-<img height = '30' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-ffffff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
-<img height = '30' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-ffffff.svg?style=for-the-badge&logo=datagrip&logoColor=000000">&nbsp;
-<img height = '30' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4">
+		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>  
+<img height = '22' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-ffffff?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
+<img height = '22' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-ffffff.svg?style=flat-square&logo=datagrip&logoColor=000000">&nbsp;
+<img height = '22' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-ffffff?style=flat-square&logo=microsoft-outlook&logoColor=0078D4">
 	</td>
 	</tr>
 	<tr>
@@ -810,22 +810,22 @@
 		Работа с базой данных соцподдержки населения по Кировской области, MS SQL.
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.</br>
-		Контент-менеджмент сайта министерства соцразвития</br>
-<img height = '30' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-f6f8fa?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
-<img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-f6f8fa?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
-<img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-f6f8fa?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
-<img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-f6f8fa.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 	
+		Контент-менеджмент сайта министерства соцразвития</br></br>  
+<img height = '22' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-f6f8fa?style=flat-square&logo=microsoft%20sql%20server&logoColor=CC2927">&nbsp;   
+<img height = '22' title= 'HTML' src="https://img.shields.io/badge/-HTML-f6f8fa?style=flat-square&logo=HTML5&logoColor=E34F26">&nbsp; 
+<img height = '22' title= 'CSS' src="https://img.shields.io/badge/CSS-f6f8fa?style=flat-square&logo=css3&logoColor=1572B6">&nbsp; 
+<img height = '22' title= 'Javascript' src="https://img.shields.io/badge/JavaScript%20-f6f8fa.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"> 	
 	</td>
 	</tr>
 	<tr>
 		<td>Декабрь 2014 — </br>Декабрь 2015</br><i>1 год 1 месяц</i></td>
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
-		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br>
-<img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
-<img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
-<img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
-<img height = '30' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-ffffff?style=for-the-badge&logo=wordpress&logoColor=21759B">
+		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>  
+<img height = '22' title= 'HTML' src="https://img.shields.io/badge/-HTML-ffffff?style=flat-square&logo=HTML5&logoColor=E34F26">&nbsp; 
+<img height = '22' title= 'CSS' src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css3&logoColor=1572B6">&nbsp; 
+<img height = '22' title= 'Javascript' src="https://img.shields.io/badge/JavaScript%20-ffffff.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
+<img height = '22' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-ffffff?style=flat-square&logo=wordpress&logoColor=21759B">
 	</td>
 	</tr>
 </table>
@@ -842,13 +842,13 @@
 		<td><p>Вятский государственный гуманитарный университет</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
-                 Дипломная работа: <b>Разработка приложения для операционной системы Android</b></br>  
-<img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">&nbsp;
-<img height = '30' title= 'C++' src="https://img.shields.io/badge/C++-f6f8fa?style=for-the-badge&logo=cplusplus&logoColor=00599C">&nbsp; 
-<img height = '30' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-f6f8fa.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84">&nbsp; 
-<img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-f6f8fa?style=for-the-badge&logo=HTML5&logoColor=E34F26">&nbsp; 
-<img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-f6f8fa?style=for-the-badge&logo=css3&logoColor=1572B6">&nbsp; 
-<img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-f6f8fa.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
+                 Дипломная работа: <b>Разработка приложения для операционной системы Android</b></br></br>  
+<img height = '22' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-f6f8fa.svg?style=flat-square&logo=intellij-idea&logoColor=000000">&nbsp;
+<img height = '22' title= 'C++' src="https://img.shields.io/badge/C++-f6f8fa?style=flat-square&logo=cplusplus&logoColor=00599C">&nbsp; 
+<img height = '22' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-f6f8fa.svg?style=flat-square&logo=android-studio&logoColor=3DDC84">&nbsp; 
+<img height = '22' title= 'HTML' src="https://img.shields.io/badge/-HTML-f6f8fa?style=flat-square&logo=HTML5&logoColor=E34F26">&nbsp; 
+<img height = '22' title= 'CSS' src="https://img.shields.io/badge/CSS-f6f8fa?style=flat-square&logo=css3&logoColor=1572B6">&nbsp; 
+<img height = '22' title= 'Javascript' src="https://img.shields.io/badge/JavaScript%20-f6f8fa.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E">&nbsp;  
 	</td>
 	</tr>
 </table>
