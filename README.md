@@ -796,7 +796,8 @@
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
 <img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
 <img height = '18' title= 'DataGrip' src="https://cdn.worldvectorlogo.com/logos/datagrip.svg">&nbsp;&nbsp;
-<img height = '20' title= 'Microsoft Outlook' src="https://cdn.worldvectorlogo.com/logos/outlook.svg">
+<img height = '20' title= 'Microsoft Outlook' src="https://cdn.worldvectorlogo.com/logos/outlook.svg">&nbsp;&nbsp;
+<img height = '20' title= '1C' src="https://cdn.worldvectorlogo.com/logos/1c-company.svg">
 		</td>
 	</tr>
 	<tr>
