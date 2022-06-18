@@ -47,13 +47,14 @@
 <img height = '30' title= 'Confluence' src="https://img.shields.io/badge/confluence-0052cc.svg?style=for-the-badge&logo=confluence&logoColor=white">
 <img height = '30' title= 'Postman' src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img height = '30' title= 'Javascript' src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">    
-<img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img height = '30' title= 'CSS' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img height = '30' title= 'HTML' src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">	
 <img height = '30' title= 'IntelliJ IDEA' src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img height = '30' title= 'Power BI' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">    
 <img height = '30' title= 'DataGrip' src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white">
 <img height = '30' title= 'Android Studio' src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img height = '30' title= 'Microsoft Outlook' src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+<img height = '30' title= 'Git' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img height = '30' title= 'Wordpress' src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img height = '30' title= 'Google Sheets' src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 </p>
