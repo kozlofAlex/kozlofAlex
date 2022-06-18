@@ -40,6 +40,9 @@
     - Фильмы и сериалы 🎞️  
 
 ### Навыки  
+<div>
+  <img align='right' height = '200' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Night-Coding.webp" />
+</div></br>
 <p>
 <img height = '35' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1">
 <img height = '35' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
