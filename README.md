@@ -54,7 +54,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
- 
+   
 ### Примеры тестовой документации
 <details><summary>:pencil: Тест-кейсы</summary></br>
 <div align="center">
@@ -794,8 +794,8 @@
 		Работа в крупной медицинской страховой компании, главные задачи - формирование статистических отчётов, выборок, ad hoc запросы к базе данных MS SQL. Внесение информации в БД.  
 	        Консультирование пользователей, работа с офисной техникой. 
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
-<img height = '45' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
-<img height = '20' title= 'DataGrip' src="https://cdn.worldvectorlogo.com/logos/datagrip.svg">&nbsp;&nbsp;
+<img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
+<img height = '18' title= 'DataGrip' src="https://cdn.worldvectorlogo.com/logos/datagrip.svg">&nbsp;&nbsp;
 <img height = '20' title= 'Microsoft Outlook' src="https://cdn.worldvectorlogo.com/logos/outlook.svg">&nbsp;&nbsp;
 		</td>
 	</tr>
@@ -807,9 +807,9 @@
 		Составление отчётов, предоставление статистических данных, разработка утилит. 
 		Консультирование пользователей, помощь с сопровождением системы, устанавка и настрайка программ.</br>
 		Контент-менеджмент сайта министерства соцразвития</br></br>
-<img height = '45' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
-<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
+<img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
+<img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
+<img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
 <img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
 		</td>
 	</tr>
@@ -818,10 +818,10 @@
 		<td><b>«Реабилитационный центр»</b></br>
 		<b>Программист</b></br>
 		Поддержка пользователей, установка/настройка программ, ЭЦП, работа с сайтом организации, работа с офисной техникой, с базой ЕАИС, настройка БЭСТ-5</br></br>
-<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
+<img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
+<img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
 <img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">&nbsp;&nbsp;
-<img height = '35' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg">
+<img height = '30' title= 'Wordpress' src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg">
 		</td>
 	</tr>
 </table>
@@ -838,12 +838,12 @@
 		<td><p>Вятский государственный гуманитарный университет</br>    
                  Факультет информатики, математики и физики, Прикладная математика и информатика</p>
 		 <p>Квалификация - <b>математик, системный программист</b></p>   
-                 Дипломная работа: <b>Разработка мобильного приложения на Android</b></br></br>   
-<img height = '35' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;
-<img height = '35' title= 'C++' src="https://cdn.worldvectorlogo.com/logos/c.svg">&nbsp;&nbsp;
-<img height = '35' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;
-<img height = '35' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
-<img height = '35' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
+                 Дипломная работа: <b>Разработка приложения для операционной системы Android</b></br></br>   
+<img height = '30' title= 'IntelliJ_IDEA' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/intellij-idea.svg">&nbsp;&nbsp;
+<img height = '30' title= 'C++' src="https://cdn.worldvectorlogo.com/logos/c.svg">&nbsp;&nbsp;
+<img height = '30' title= 'Android Studio' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/android-studio.svg">&nbsp;&nbsp;
+<img height = '30' title= 'HTML' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;
+<img height = '30' title= 'CSS' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;
 <img height = '30' title= 'Javascript' src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
    		 </td>
 	</tr>
