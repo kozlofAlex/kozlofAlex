@@ -40,9 +40,6 @@
     - Фильмы и сериалы 🎞️  
 
 ### Навыки  
-<div>
-  <img align='right' height = '200' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Night-Coding.webp" />
-</div></br>
 <p>
 <img height = '35' title= 'Postgresql' src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1">
 <img height = '35' title= 'Microsoft SQL Server' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927">
@@ -790,7 +787,7 @@
 <img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;
 <img height = '17' width='95' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;
 <img height = '20' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;
-<img height = '19' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
+<img height = '20' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
 		</td>
 	</tr>
 	<tr>
