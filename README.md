@@ -781,7 +781,7 @@
 		<td><b>«РАЙТКОД»</b></br>
 		<b>Программист PostgreSQL.</b></br>
 		Создание и доработка отчётов для гос заказчиков по формируемым в реальном времени ТЗ</br></br>
-<img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;
+<img height = '20' title= 'Postgres' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/postgresql.svg">&nbsp;&nbsp;
 <img height = '17' width='95' title= 'Postgres' src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">&nbsp;&nbsp;
 <img height = '20' title= 'Jira' src="https://images.ctfassets.net/8j5aqoy0ts8s/1pMpu1nvpX9yYYTD01pfjM/dc815c421e79f6b8808d998d15ea258b/logo-gradient-blue-jira.svg">&nbsp;&nbsp;
 <img height = '19' title= 'Confluence' src="https://images.ctfassets.net/8j5aqoy0ts8s/4bu6wuFD7QjkSiUOx7WGKD/777dd93f18e57fd86c4f46789e3f20b7/logo-gradient-blue-confluence.svg">
@@ -796,7 +796,7 @@
 		Работа с программами 1С Складской учёт (инвентаризация, внесение ТМЦ), TESSA (оформление заявок и первичных документов)</br></br>
 <img height = '40' title= 'Microsoft SQL Server' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/logo/microsoftsqlserver.svg">&nbsp;&nbsp;
 <img height = '18' title= 'DataGrip' src="https://cdn.worldvectorlogo.com/logos/datagrip.svg">&nbsp;&nbsp;
-<img height = '20' title= 'Microsoft Outlook' src="https://cdn.worldvectorlogo.com/logos/outlook.svg">&nbsp;&nbsp;
+<img height = '20' title= 'Microsoft Outlook' src="https://cdn.worldvectorlogo.com/logos/outlook.svg">
 		</td>
 	</tr>
 	<tr>
