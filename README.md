@@ -876,14 +876,14 @@
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.5%2F5%20-brightgreen"/></td>
     </tr>
     <tr>
+      <td>«Тестирование программного обеспечения. Базовый курс», С. Куликов</td>
+      <td><img src="https://img.shields.io/badge/Прочитано-100%25-blue?style=plastic&logo&logoColor=white"></td>   	    
+      <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.1%2F5%20-brightgreen"/></td>
+    </tr>    
+    <tr>
       <td>«A Practitioner’s Guide to Software Test Design», L. Copeland</td>
       <td><img src="https://img.shields.io/badge/Прочитано-50%25-blue?style=plastic&logo&logoColor=white"></td>    
       <td><img alt="Stars" src="https://img.shields.io/badge/Мой рейтинг-4.3%2F5%20-brightgreen"/></td>
-    </tr>
-    <tr>
-      <td>«Тестирование программного обеспечения. Базовый курс», С. Куликов</td>
-      <td><img src="https://img.shields.io/badge/Прочитано-0%25-blue?style=plastic&logo&logoColor=white"></td>   	    
-      <td></td>
     </tr>
     <tr>
       <td>«Идеальное программное обеспечение и другие иллюзии в тестировании», Д. Вайнберг</td>
