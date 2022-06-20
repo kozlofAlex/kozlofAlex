@@ -965,9 +965,9 @@
 </details>    
 
 ### План развития  
- <details> <summary>1. Тестирование десктопных приложений</summary><br></details>
- <details> <summary>2. Тестирование мобильных приложений</summary><br></details>   
- <details> <summary>3. Автоматизация тестирования</summary><br></details>
+ <details> <summary>1. Автоматизация тестирования</summary><br></details>
+ <details> <summary>2. Тестирование десктопных приложений</summary><br></details>
+ <details> <summary>3. Тестирование мобильных приложений</summary><br></details>   
  <details> <summary>4. Английский язык</summary><br></details>
 
 <div align="center">
