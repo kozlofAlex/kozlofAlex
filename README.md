@@ -866,7 +866,7 @@
     <tr border: none;>
       <td><b>Название</b></td>
       <td><b>Статус</b></td>
-      <td><b>Рейтинг</b></td>
+      <td><b>Оценка</b></td>
     </tr>
   </thead>
   <tbody>
