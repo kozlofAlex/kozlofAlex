@@ -923,10 +923,10 @@
    <ol>
 	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Клиент-серверная архитектура</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTTP- протокол, структура запроса и ответа</li></a>
-   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>API</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Что происходит при отправке запроса на сервер</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTTP - методы</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Коды ответов HTTP-сервера</li></a>
+   	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>API</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Работа с сетями</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>Кэш, куки, веб-сокет</li></a>
    	<a href="https://github.com/kozlofAlex/kozlofAlex/blob/main/2.%20Testing%20Web%20and%20API.md" ><li>HTML, CSS, JS</li></a>
