@@ -1,4 +1,4 @@
-<h2 align = "center"> Всем привет, меня зовут Александр</br> И я Junior QA </h2>  
+<h2 align = "center"> Всем привет, меня зовут Александр</br> И я Тестировщик ПО </h2>  
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
