@@ -163,7 +163,7 @@
 		<td>Илья, Петров</td>
 		<td>pavasilev@mail.ru</td>
 		<td><b>@$#%%^</b></td>
-		<td>251</td>
+		<td>200</td>
 	</tr>	
 	<tr>
 		<td>false</td>
