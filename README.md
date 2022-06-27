@@ -146,10 +146,31 @@
 	</tr>
 	<tr>
 		<td>false</td>
-		<td>Илья Александрович, Petrov</td>
-		<td>pavasilev@@mail.ru</td>
-		<td>@$#%%^</td>
+		<td><b>Илья Александрович, Petrov</b></td>
+		<td>pavasilev@mail.ru</td>
+		<td>резюме</td>
+		<td>200</td>
+	</tr>	
+	<tr>
+		<td>false</td>
+		<td>Илья, Петров</td>
+		<td><b>pavasilev@@mail.ru</b></td>
+		<td>резюме</td>
+		<td>200</td>
+	</tr>	
+	<tr>
+		<td>false</td>
+		<td>Илья, Петров</td>
+		<td>pavasilev@mail.ru</td>
+		<td><b>@$#%%^</b></td>
 		<td>251</td>
+	</tr>	
+	<tr>
+		<td>false</td>
+		<td>Илья, Петров</td>
+		<td>pavasilev@mail.ru</td>
+		<td>резюме</td>
+		<td><b>251</b></td>
 	</tr>
 </table>
 <div align="left">
