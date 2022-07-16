@@ -1,4 +1,4 @@
-<h2 align = "center"> Всем привет, меня зовут Александр</br> И я Тестировщик ПО </h2>  
+<h2 align = "center"> Всем привет, меня зовут Александр</br> Я Тестировщик ПО </h2>  
 <div>
   <img align='right' src="https://github.com/kozlofAlex/kozlofAlex/blob/main/img/Hiring-test.gif" width="550" />
 </div></br>
@@ -8,7 +8,7 @@
 </br></br></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#обо-мне"><b>Обо мне</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#навыки"><b>Навыки</b></a></br>
-<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#примеры-тестовой-документации"><b>Примеры тестовой документации</b></a></br>
+<a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#портфолио"><b>Портфолио</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#опыт-работы"><b>Опыт работы</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#знания-в-тестировании"><b>Знания в тестировании</b></a></br>
 <a href= "https://github.com/kozlofAlex/kozlofAlex/blob/main/README.md#план-развития"><b>План развития</b></a></br>
@@ -64,7 +64,7 @@
 <img height = '22' title= 'Google Sheets' src="https://img.shields.io/badge/Google%20Sheets-Other-informational?style=flat-square&logo=google-sheets&logoColor=white&color=F2C811">
 </p>
    
-### Примеры тестовой документации
+### Портфолио
 <details><summary>:pencil: Тест-кейсы</summary></br>
 <div align="center">
 <details> <summary>Пример #1</summary></br>
